@@ -1,0 +1,5828 @@
+{
+  "results": {
+    "api_version": "1.30",
+    "results_available": 63,
+    "results_returned": "63",
+    "results_start": 1,
+    "shop": [
+      {
+        "id": "J003829755",
+        "name": "mikuru みくる 神戸三宮店",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/18/17/P044661817/P044661817_69.jpg",
+        "name_kana": "さむぎょぷさるぎゅうたんたべほうだいみくるこうべさんのみやてん",
+        "address": "兵庫県神戸市中央区北長狭通１-2-3仁鶴ビル4F",
+        "station_name": "三ノ宮",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.693923901,
+        "lng": 135.1931355071,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "お仕事帰りにサクッと☆2次会歓迎◎",
+          "code": "G001"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": "～3,000円"
+        },
+        "catch": "超お得！肉寿司1貫59円～ 記念日から普段のお食事も",
+        "capacity": 60,
+        "access": "ＪＲ三ノ宮(ＪＲ)駅西口より徒歩約1分/阪急神戸本線神戸三宮(阪急)駅出口(ＪＲ西口方面)より徒歩約1分",
+        "mobile_access": "JR東海道本線三ﾉ宮(JR)駅西口より徒歩約1分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003829755/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/62/03/P044666203/P044666203_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/62/03/P044666203/P044666203_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/62/03/P044666203/P044666203_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/62/03/P044666203/P044666203_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/62/03/P044666203/P044666203_100.jpg"
+          }
+        },
+        "open": "月～日、祝日、祝前日: 17:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "close": "不定休",
+        "party_capacity": 60,
+        "other_memo": "お祝い事・アニバーサリーなどサポートさせていただきます。ご相談お待ちしております",
+        "shop_detail_memo": "飲み放題or1ドリンク制です",
+        "budget_memo": "お盆期間の8/12-15は平日ですが週末料金+500円を頂戴します",
+        "wedding": "ご相談ください。",
+        "course": "あり",
+        "free_drink": "あり ：飲みやすいカクテルからお酒好きな方まで、幅広い種類をご用意しております。",
+        "free_food": "あり ：肉寿司、野菜巻き串など豪華食べ放題！",
+        "private_room": "あり ：6名様から個室でご案内できます♪",
+        "horigotatsu": "なし ：申し訳ございません。ご用意がございません。",
+        "tatami": "なし ：申し訳ございません。ご用意がございません。",
+        "card": "利用可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切不可 ：27名様から区画貸切、45名様から店舗貸切可能です",
+        "parking": "なし ：近くにコインパーキングがございます。※料金はお客様ご負担でお願いします。",
+        "barrier_free": "なし ：スタッフまでお声がけください。可能な限りお手伝いさせていただきます。",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業している",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れOK",
+        "wifi": "あり",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003829755/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003829755/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J003851529",
+        "name": "みくる 神戸三宮店",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/18/17/P044661817/P044661817_69.jpg",
+        "name_kana": "にくずししゃぶしゃぶたべほうだいみくるこうべさんのみやてん",
+        "address": "兵庫県神戸市中央区北長狭通１-2-3仁鶴ビル4F",
+        "station_name": "神戸三宮",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6938966811,
+        "lng": 135.1931005111,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "こだわりの名物しゃぶしゃぶをお手軽に◎",
+          "code": "G001"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": "～3,000円"
+        },
+        "catch": "みくる名物のしゃぶしゃぶ 記念日から普段のお食事も",
+        "capacity": 60,
+        "access": "ＪＲ三ノ宮(ＪＲ)駅西口より徒歩約1分/阪急神戸本線神戸三宮(阪急)駅出口(ＪＲ西口方面)より徒歩約1分",
+        "mobile_access": "JR東海道本線三ﾉ宮(JR)駅西口より徒歩約1分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003851529/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/01/79/P044970179/P044970179_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/01/79/P044970179/P044970179_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/01/79/P044970179/P044970179_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/01/79/P044970179/P044970179_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/01/79/P044970179/P044970179_100.jpg"
+          }
+        },
+        "open": "月～日、祝日、祝前日: 17:00～23:00 （料理L.O. 22:00 ドリンクL.O. 22:30）",
+        "close": "不定休",
+        "party_capacity": 60,
+        "other_memo": "お祝い事・アニバーサリーなどサポートさせていただきます。ご相談お待ちしております",
+        "shop_detail_memo": "飲み放題or1ドリンク制です",
+        "budget_memo": "お盆期間の8/12-15は平日ですが週末料金+500円を頂戴します",
+        "wedding": "ご相談ください。",
+        "course": "あり",
+        "free_drink": "あり ：飲みやすいカクテルからお酒好きな方まで、幅広い種類をご用意しております。",
+        "free_food": "あり ：絶品のしゃぶしゃぶや名物の肉寿司を食べ放題でご堪能ください！",
+        "private_room": "あり ：6名様から個室でご案内できます♪",
+        "horigotatsu": "なし ：申し訳ございません。ご用意がございません。",
+        "tatami": "なし ：申し訳ございません。ご用意がございません。",
+        "card": "利用可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切不可 ：27名様から区画貸切、45名様から店舗貸切可能です",
+        "parking": "なし ：近くにコインパーキングがございます。※料金はお客様ご負担でお願いします。",
+        "barrier_free": "なし ：スタッフまでお声がけください。可能な限りお手伝いさせていただきます。",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れOK",
+        "wifi": "あり",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003851529/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003851529/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J001267201",
+        "name": "きゅ 神戸三ノ宮店",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/13/65/P038431365/P038431365_69.jpg",
+        "name_kana": "わぎゅうあぶりにくずしとわぎゅうもつなべがたべほうだいのおみせ　きゅ　こうべさんのみやてん",
+        "address": "兵庫県神戸市中央区北長狭通１-2-3　仁鶴ビル4階",
+        "station_name": "三ノ宮",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6938983466,
+        "lng": 135.1930585703,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "食べ放題お得！駅近で肉寿司を堪能できる店",
+          "code": "G001"
+        },
+        "budget": {
+          "code": "B003",
+          "name": "3001～4000円",
+          "average": "3500円"
+        },
+        "catch": "圧巻の61CM肉寿司を見て！ 絶品肉寿司の数々を堪能！",
+        "capacity": 52,
+        "access": "ＪＲ三ノ宮(ＪＲ)駅西口より徒歩約1分/阪急神戸本線神戸三宮(阪急)駅出口(ＪＲ西口方面)より徒歩約1分",
+        "mobile_access": "JR東海道本線三ﾉ宮(JR)駅西口より徒歩約1分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001267201/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/89/57/P038958957/P038958957_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/89/57/P038958957/P038958957_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/89/57/P038958957/P038958957_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/89/57/P038958957/P038958957_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/89/57/P038958957/P038958957_100.jpg"
+          }
+        },
+        "open": "月～日、祝日、祝前日: 17:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "close": "不定休",
+        "party_capacity": 52,
+        "other_memo": "お祝い事・アニバーサリーなどサポートさせていただきます。ご相談お待ちしております",
+        "shop_detail_memo": "お席のみのお客様及び食べ放題のお客様は2ドリンク制とさせていただいております。",
+        "budget_memo": "【キャンセル料】ご予約7日前から2000円/人,当日3000円/人",
+        "wedding": "ご相談ください。",
+        "course": "あり",
+        "free_drink": "あり ：飲みやすいカクテルからお酒好きな方まで、幅広い種類をご用意しております。",
+        "free_food": "あり ：1980円から食べ放題OKです♪",
+        "private_room": "あり",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用不可",
+        "non_smoking": "一部禁煙",
+        "charter": "貸切可 ：40名様～貸切可能です!!",
+        "parking": "なし ：近くにコインパーキングがございます。※料金はお客様ご負担でお願いします。",
+        "barrier_free": "なし ：スタッフまでお声がけください。可能な限りお手伝いさせていただきます。",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業している",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れ歓迎",
+        "wifi": "あり",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001267201/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001267201/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J003532301",
+        "name": "さんきた劇場 三宮本店",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/53/64/P048085364/P048085364_69.jpg",
+        "name_kana": "にせんえん　たべのみほうだい　やきとり　こしついざかや　さんきたげきじょう　さんのみやほんてん",
+        "address": "兵庫県神戸市中央区北長狭通１-3-6光陽ビル7階",
+        "station_name": "神戸三宮",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6935667091,
+        "lng": 135.1926900028,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "三宮 居酒屋 寿司 焼鳥 食べ飲み放題 個室",
+          "code": "G001"
+        },
+        "sub_genre": {
+          "name": "和食",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": "最大3時間200種食べ飲み放題プラン2,000円~！"
+        },
+        "catch": "市場直送海鮮寿司食べ放題 完全分煙にてご案内します",
+        "capacity": 120,
+        "access": "ＪＲ三ノ宮駅徒歩2分",
+        "mobile_access": "JR三ﾉ宮駅徒歩2分 ｴﾘｱ最安値食べ飲み放題!",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003532301/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/53/57/P048085357/P048085357_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/53/57/P048085357/P048085357_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/53/57/P048085357/P048085357_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/53/57/P048085357/P048085357_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/53/57/P048085357/P048085357_100.jpg"
+          }
+        },
+        "open": "月～金、祝前日: 13:00～翌2:00 （料理L.O. 翌1:00 ドリンクL.O. 翌1:30）土: 12:00～翌3:00 （料理L.O. 翌2:00 ドリンクL.O. 翌2:30）日、祝日: 12:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "close": "年中無休 ",
+        "party_capacity": 120,
+        "other_memo": "利酒師がいる/シェフがいる/ワインセラー/TVスポーツ観戦ができる/マイク利用可",
+        "shop_detail_memo": "誕生日特典有/幹事無料/三宮駅/個室/居酒屋/宴会/女子会/貸切/和洋/肉/個室/焼き鳥/肉バル/飲み放題",
+        "budget_memo": "お通し代380円頂戴致します。",
+        "wedding": "三宮駅 個室居酒屋で二次会・ウェディングプラン多数あり！是非当店へ！",
+        "course": "あり",
+        "free_drink": "あり ：【飲み放題ドリンク200種類】単品飲み放題あり",
+        "free_food": "あり ：食べ飲み放題3時間2980円コミコミ価格!『寿司』『肉寿司』『焼き鳥』『もつ鍋』『餃子』『和食』食べ放題",
+        "private_room": "あり ：座椅子、座敷席、ソファー席あり",
+        "horigotatsu": "あり ：座椅子、座敷席、ソファー席あり",
+        "tatami": "なし ：座椅子、座敷席、ソファー席あり",
+        "card": "利用可",
+        "non_smoking": "一部禁煙",
+        "charter": "貸切可 ：最大110名様(個室・半個室・座敷・ソファー席)",
+        "parking": "あり ：近くにコインパーキングあり",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "あり",
+        "lunch": "あり",
+        "midnight": "営業している",
+        "english": "あり",
+        "pet": "不可",
+        "child": "お子様連れ歓迎 ：乳児からOK",
+        "wifi": "あり",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003532301/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003532301/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J003784855",
+        "name": "鮨すぎ原",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/55/94/P044135594/P044135594_69.jpg",
+        "name_kana": "すしすぎはら",
+        "address": "兵庫県神戸市中央区北長狭通１-3-10 燕京ビル 3F",
+        "station_name": "三宮",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6938233435,
+        "lng": 135.192552784,
+        "genre": {
+          "name": "和食",
+          "catch": "カジュアルに本格寿司を楽しめるお店",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B006",
+          "name": "10001～15000円",
+          "average": ""
+        },
+        "catch": "",
+        "capacity": 11,
+        "access": "三宮駅より徒歩1分。ビル三階です。",
+        "mobile_access": "三宮駅より徒歩1分｡ﾋﾞﾙ三階です｡",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003784855/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/56/02/P044135602/P044135602_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/56/02/P044135602/P044135602_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/56/02/P044135602/P044135602_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/56/02/P044135602/P044135602_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/56/02/P044135602/P044135602_100.jpg"
+          }
+        },
+        "open": "月～金: 11:30～14:3017:30～22:30 （料理L.O. 20:30 ドリンクL.O. 22:00）土: 11:30～14:30 （料理L.O. 13:00 ドリンクL.O. 14:00）17:30～22:30 （料理L.O. 20:30 ドリンクL.O. 22:00）日: 11:30～20:30 （料理L.O. 18:30 ドリンクL.O. 20:00）祝日: 17:30～20:30 （料理L.O. 18:30 ドリンクL.O. 20:00）",
+        "close": "不定休。詳しくはお問い合わせ下さい。完全予約制です。",
+        "party_capacity": "",
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "",
+        "wedding": "",
+        "course": "あり",
+        "free_drink": "なし",
+        "free_food": "なし",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切不可",
+        "parking": "なし ：近隣にコインパーキングあり",
+        "barrier_free": "あり ：車椅子・ベビーカーも来店可能",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れOK",
+        "wifi": "あり",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003784855/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003784855/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J000020062",
+        "name": "元祖ぶっち切り寿司 魚心 三宮店",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/40/27/P001004027/P001004027_69.jpg",
+        "name_kana": "うおしん　さんのみやてん",
+        "address": "兵庫県神戸市中央区北長狭通１－４－２　あじびる三宮１Ｆ",
+        "station_name": "三ノ宮",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6932786807,
+        "lng": 135.1924447563,
+        "genre": {
+          "name": "和食",
+          "catch": "三宮　寿司　「元祖ぶっち切り寿司」　",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B003",
+          "name": "3001～4000円",
+          "average": "3200円"
+        },
+        "catch": "職人が握る本格寿司！ おもてなし心もぶっちぎり",
+        "capacity": 58,
+        "access": "阪急三宮駅北側　徒歩1分",
+        "mobile_access": "阪急三宮駅北側 徒歩1分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ000020062/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/27/79/P028932779/P028932779_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/27/79/P028932779/P028932779_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/27/79/P028932779/P028932779_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/27/79/P028932779/P028932779_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/27/79/P028932779/P028932779_100.jpg"
+          }
+        },
+        "open": "月～日、祝日、祝前日: 11:30～23:00 （料理L.O. 22:30 ドリンクL.O. 22:30）",
+        "close": "年中無休",
+        "party_capacity": 58,
+        "other_memo": "不明点等、お気軽に店舗へご相談下さい",
+        "shop_detail_memo": "なし",
+        "budget_memo": "不明点等、お気軽に店舗へご相談下さい",
+        "wedding": "要相談",
+        "course": "あり",
+        "free_drink": "なし ：当店ではご用意がございません。申し訳ございません。要望があれば可能な限り対応させていただきます。",
+        "free_food": "なし ：当店ではご用意がございません。申し訳ございません。要望があれば可能な限り対応させていただきます。",
+        "private_room": "なし ：ございません。",
+        "horigotatsu": "なし ：ございません。",
+        "tatami": "なし ：ございません。",
+        "card": "利用可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切不可 ：貸切は不可となっております。",
+        "parking": "なし ：徒歩5分圏内でコインパーキングございます！",
+        "barrier_free": "なし ：詳細はお問い合わせください。",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業していない",
+        "english": "あり",
+        "pet": "不可",
+        "child": "お子様連れ歓迎 ：ファミリー大歓迎です！",
+        "wifi": "あり",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ000020062/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ000020062/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J001184647",
+        "name": "神戸焼肉 樹々 彩",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/45/25/P021284525/P021284525_69.jpg",
+        "name_kana": "こうべやきにく　じゅじゅ　いろどり",
+        "address": "兵庫県神戸市中央区中山手通１丁目１－８　ニューコペンビル　２階",
+        "station_name": "三ノ宮",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6942541213,
+        "lng": 135.192269461,
+        "genre": {
+          "name": "焼肉・ホルモン",
+          "catch": "三宮 神戸牛 誕生日 記念日 個室 肉寿司",
+          "code": "G008"
+        },
+        "budget": {
+          "code": "B004",
+          "name": "5001～7000円",
+          "average": "7000円"
+        },
+        "catch": "名物!4種の「炙り肉寿司」 神戸牛×A4、A5のみ御提供",
+        "capacity": 34,
+        "access": "各線三宮駅徒歩3分。",
+        "mobile_access": "各線三宮駅徒歩3分｡ ",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001184647/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/99/21/P033749921/P033749921_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/99/21/P033749921/P033749921_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/99/21/P033749921/P033749921_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/99/21/P033749921/P033749921_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/99/21/P033749921/P033749921_100.jpg"
+          }
+        },
+        "open": "月、火、木～日、祝日、祝前日: 17:00～23:00 （料理L.O. 22:30 ドリンクL.O. 22:30）",
+        "close": "水",
+        "party_capacity": 40,
+        "other_memo": "※不明点等、お気軽に店舗へご相談下さい",
+        "shop_detail_memo": "コース等をご用意しております。",
+        "budget_memo": "付き出し料５５０円",
+        "wedding": "各種2次会もご準備いたします♪",
+        "course": "あり",
+        "free_drink": "あり ：メニューをご覧ください。",
+        "free_food": "なし ：食べ放題はご用意しておりません。",
+        "private_room": "あり ：8名個室テーブルあり",
+        "horigotatsu": "あり ：テーブル/座敷のみ",
+        "tatami": "なし ：～20名迄の大型座敷あり",
+        "card": "利用可",
+        "non_smoking": "禁煙席なし",
+        "charter": "貸切不可 ：20名様以上で貸切OK！お気軽にお問い合わせください。",
+        "parking": "なし ：近くに駐車場有り。",
+        "barrier_free": "なし ：お店までご相談ください♪",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業していない",
+        "english": "あり",
+        "pet": "不可",
+        "child": "お子様連れOK",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001184647/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001184647/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J000505987",
+        "name": "明石 渾 鮨",
+        "logo_image": "https://imgfp.hotp.jp/SYS/cmn/images/common/diary/custom/m30_img_noimage.gif",
+        "name_kana": "あかしこんすし",
+        "address": "兵庫県神戸市中央区中山手通１丁目8番地1号明関ビル１F",
+        "station_name": "三宮",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "XF2C",
+          "name": "北野坂周辺"
+        },
+        "lat": 34.6947004695,
+        "lng": 135.1927082963,
+        "genre": {
+          "name": "創作料理",
+          "catch": "超新鮮なお寿司が食べられるお店",
+          "code": "G003"
+        },
+        "budget": {
+          "code": "B005",
+          "name": "7001～10000円",
+          "average": ""
+        },
+        "catch": "",
+        "capacity": 8,
+        "access": "山手線三宮(神戸市営)駅東出口８より徒歩約1分/神戸高速線＜東西線＞神戸三宮(阪急)駅出口(ＪＲ西口方面)より徒歩約3分",
+        "mobile_access": "山手線三宮(神戸市営)駅東出口8より徒歩約1分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ000505987/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/57/44/P039155744/P039155744_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/57/44/P039155744/P039155744_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/57/44/P039155744/P039155744_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/57/44/P039155744/P039155744_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/57/44/P039155744/P039155744_100.jpg"
+          }
+        },
+        "open": "月～土、祝日、祝前日: 17:00～23:00 （料理L.O. 22:30）",
+        "close": "日",
+        "party_capacity": "",
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "",
+        "wedding": "",
+        "free_drink": "なし",
+        "free_food": "なし",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切不可",
+        "parking": "なし",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れOK",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ000505987/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ000505987/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J001203016",
+        "name": "一人焼肉ジビエにくひろ三宮店",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/20/67/P030642067/P030642067_69.jpg",
+        "name_kana": "こうべひとりやきにく　じびえ　にくひろ　さんのみやてん",
+        "address": "兵庫県神戸市中央区北長狭通１-6-11　西阪ビル　B1階",
+        "station_name": "三ノ宮",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6933728284,
+        "lng": 135.1920864512,
+        "genre": {
+          "name": "焼肉・ホルモン",
+          "catch": "焼肉 ジビエ ホルモン 和牛 肉寿司 昼呑み",
+          "code": "G008"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": "2500円"
+        },
+        "catch": "「うまい！樽生」認定店。 お肉は1枚から注文可能",
+        "capacity": 16,
+        "access": "阪急三宮駅西口より徒歩1分★サンキタ通りと生田新道通りの間",
+        "mobile_access": "阪急三宮駅徒歩1分★ｻﾝｷﾀ通りと生田新道通りの間",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001203016/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/07/34/P033410734/P033410734_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/07/34/P033410734/P033410734_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/07/34/P033410734/P033410734_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/07/34/P033410734/P033410734_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/07/34/P033410734/P033410734_100.jpg"
+          }
+        },
+        "open": "月～金、祝前日: 11:00～15:0017:00～23:00土、日、祝日: 11:00～23:00",
+        "close": "なし",
+        "party_capacity": 16,
+        "other_memo": "ここだけでしか食べられないお肉を多数ご用意★1枚からご注文いただけます！",
+        "shop_detail_memo": "-",
+        "budget_memo": "お通し・タレ・席料300円頂戴しております。",
+        "wedding": "",
+        "course": "あり",
+        "free_drink": "なし ：-",
+        "free_food": "なし ：-",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "禁煙席なし",
+        "charter": "貸切不可 ：お気軽に問い合わせください",
+        "parking": "なし ：お近くのコインパーキングをご利用ください",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業していない",
+        "english": "あり",
+        "pet": "不可",
+        "child": "お子様連れ不可",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001203016/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001203016/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J000724283",
+        "name": "さかな料理と寿し 侍",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/60/81/P010286081/P010286081_69.jpg",
+        "name_kana": "さかなりょうりとすしさむらい",
+        "address": "兵庫県神戸市中央区中山手通１-7-1 サントモビル1F",
+        "station_name": "三ノ宮",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6946424126,
+        "lng": 135.1923641618,
+        "genre": {
+          "name": "和食",
+          "catch": "天然ものを駆使した海鮮料理と寿しの店",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B004",
+          "name": "5001～7000円",
+          "average": "5000円(コース6000円～)"
+        },
+        "catch": "旬の魚料理・寿司 2名様用個室が3部屋。",
+        "capacity": 25,
+        "access": "三宮駅より北側に徒歩３分。三宮駅北側、北野坂を上がり１本目の路地を左に約30ｍ",
+        "mobile_access": "三宮駅北側､北野坂を上がり1本目の路地を左に約30m",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ000724283/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/88/57/P028988857/P028988857_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/88/57/P028988857/P028988857_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/88/57/P028988857/P028988857_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/88/57/P028988857/P028988857_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/88/57/P028988857/P028988857_100.jpg"
+          }
+        },
+        "open": "月～日、祝日、祝前日: 17:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "close": "新年は1月2日(日)から通常営業致します。系列店のさむらい東門店・炭火焼肉新撰組は1月1日から営業しております。",
+        "party_capacity": 14,
+        "other_memo": "",
+        "shop_detail_memo": "予算に合わせたコースご用意します。ご相談くださいませ。",
+        "budget_memo": "付出3種盛800円 (コース注文時はサービス)",
+        "wedding": "",
+        "course": "あり",
+        "free_drink": "あり ：各コースに+1500円（プレミアム飲み放題は+2000円）",
+        "free_food": "なし",
+        "private_room": "あり ：2名様～最大14名様までの完全個室",
+        "horigotatsu": "あり",
+        "tatami": "あり",
+        "card": "利用可",
+        "non_smoking": "禁煙席なし",
+        "charter": "貸切不可",
+        "parking": "なし",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業している",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れOK",
+        "wifi": "未確認",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ000724283/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ000724283/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J000482662",
+        "name": "双葉寿司 三宮店",
+        "logo_image": "https://imgfp.hotp.jp/SYS/cmn/images/common/diary/custom/m30_img_noimage.gif",
+        "name_kana": "ふたばずし　さんのみやてん",
+        "address": "兵庫県神戸市中央区北長狭通１－３１－１９",
+        "station_name": "三ノ宮",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6927531919,
+        "lng": 135.1927483584,
+        "genre": {
+          "name": "和食",
+          "catch": "寿司・割烹",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": "通常2500円、ランチ800円"
+        },
+        "catch": "",
+        "capacity": 45,
+        "access": "阪急三宮駅西口から徒歩１分",
+        "mobile_access": "阪急三宮駅西口から徒歩1分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ000482662/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/02/66/P010560266/P010560266_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/02/66/P010560266/P010560266_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/02/66/P010560266/P010560266_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/02/66/P010560266/P010560266_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/02/66/P010560266/P010560266_100.jpg"
+          }
+        },
+        "open": "月～土、祝前日: 11:30～22:30日、祝日: 11:30～22:00",
+        "close": "なし",
+        "party_capacity": "",
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "",
+        "wedding": "",
+        "course": "なし",
+        "free_drink": "なし",
+        "free_food": "なし",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "禁煙席なし",
+        "charter": "貸切不可",
+        "parking": "なし",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れ歓迎",
+        "wifi": "未確認",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ000482662/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ000482662/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J001110528",
+        "name": "神戸焼肉 樹々",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/45/25/P021284525/P021284525_69.jpg",
+        "name_kana": "こうべやきにく　じゅじゅ",
+        "address": "兵庫県神戸市中央区中山手通１丁目６－２２　宮ビル２階",
+        "station_name": "三ノ宮",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6946362967,
+        "lng": 135.1921230721,
+        "genre": {
+          "name": "焼肉・ホルモン",
+          "catch": "三宮 神戸牛　誕生日 記念日 個室 肉寿司",
+          "code": "G008"
+        },
+        "sub_genre": {
+          "name": "和食",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B005",
+          "name": "7001～10000円",
+          "average": "7000～8000円"
+        },
+        "catch": "神戸牛・厳選和牛を堪能 特選うにく",
+        "capacity": 25,
+        "access": "各線三宮駅徒歩3分。 生田新道沿いの三宮薬局を北へ進み,一（はじめ）があるビルの2階です！！",
+        "mobile_access": "各線三宮駅徒歩3分｡ ",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001110528/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/56/15/P035035615/P035035615_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/56/15/P035035615/P035035615_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/56/15/P035035615/P035035615_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/56/15/P035035615/P035035615_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/56/15/P035035615/P035035615_100.jpg"
+          }
+        },
+        "open": "月～日、祝日、祝前日: 12:00～23:30 （料理L.O. 22:30 ドリンクL.O. 23:00）",
+        "close": "なし",
+        "party_capacity": 25,
+        "other_memo": "個室最大16名様まで可能！",
+        "shop_detail_memo": "",
+        "budget_memo": "付出し料550円",
+        "wedding": "ウェディング・2次会など承ります。お店までご相談ください。",
+        "course": "あり",
+        "free_drink": "あり ：120分飲み放題付コースあり。(L.O.90分)",
+        "free_food": "なし ：コース/単品のみ",
+        "private_room": "あり ：2名～16名様までの個室有。",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "禁煙席なし",
+        "charter": "貸切可 ：最大25名様迄OK。お店にご連絡ください。",
+        "parking": "なし ：近くにパーキングがございます。",
+        "barrier_free": "なし ：お困りの際はお声かけください。",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れ不可",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001110528/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001110528/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J000110159",
+        "name": "磯魚料理 寿司 安さん 本店",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/34/75/P044563475/P044563475_69.jpg",
+        "name_kana": "いそざかなりょうり　すし　やっさん　ほんてん",
+        "address": "兵庫県神戸市中央区中山手通１-4-14",
+        "station_name": "三ノ宮",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6944127025,
+        "lng": 135.1917553342,
+        "genre": {
+          "name": "和食",
+          "catch": "明石浦漁港から届く新鮮な海鮮と寿司、鍋",
+          "code": "G004"
+        },
+        "sub_genre": {
+          "name": "居酒屋",
+          "code": "G001"
+        },
+        "budget": {
+          "code": "B005",
+          "name": "7001～10000円",
+          "average": "【ランチ】1500円～【ディナー】8,000円～10,000円"
+        },
+        "catch": "団体様歓迎！鍋コース 明石直送の魚をぜひ",
+        "capacity": 36,
+        "access": "神戸三宮(阪急)駅出口(ＪＲ西口方面)より徒歩約1分/ＪＲ東海道本線三ノ宮(ＪＲ)駅西口より徒歩約2分",
+        "mobile_access": "阪急 神戸三宮駅から徒歩1分/JR三宮駅西口から徒歩2分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ000110159/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/22/93/P048942293/P048942293_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/22/93/P048942293/P048942293_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/22/93/P048942293/P048942293_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/22/93/P048942293/P048942293_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/22/93/P048942293/P048942293_100.jpg"
+          }
+        },
+        "open": "月～日、祝日、祝前日: 11:30～15:00 （料理L.O. 15:00 ドリンクL.O. 15:00）17:00～23:00 （料理L.O. 23:00 ドリンクL.O. 23:00）",
+        "close": "なし",
+        "party_capacity": 20,
+        "other_memo": "いけすにて新鮮な魚をすぐご提供!!",
+        "shop_detail_memo": "毎月様々なイベント開催中!!",
+        "budget_memo": "",
+        "wedding": "ご要望に応じてご用意致します。お気軽にお声がけください♪",
+        "course": "あり",
+        "free_drink": "あり ：＋2200円(税込)でご用意しております。",
+        "free_food": "なし ：申し訳ございません。ご用意がございません",
+        "private_room": "なし ：テーブル席宴会なら個室で楽しめる!!～20名様まで可能♪",
+        "horigotatsu": "あり ：1Fは掘り炬燵座敷のお席をご用意しています",
+        "tatami": "なし ：ご用意がございません。",
+        "card": "利用可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切可 ：貸切可能!!お気軽に店舗にご相談ください♪",
+        "parking": "なし ：お近くのコインパーキングをご利用くださいませ。",
+        "barrier_free": "なし ：お手伝いさせていただきます。",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れ歓迎 ：お子様連れでも大歓迎!!",
+        "wifi": "あり",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ000110159/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ000110159/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J001223871",
+        "name": "鮨 清水",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/10/96/P033221096/P033221096_69.jpg",
+        "name_kana": "すし　しみず",
+        "address": "兵庫県神戸市中央区中山手通１-6-21　Gold woods sannomiya2　1階",
+        "station_name": "神戸三宮",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "XF2C",
+          "name": "北野坂周辺"
+        },
+        "lat": 34.6948118313,
+        "lng": 135.1920822364,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "気軽に入れる深夜まで営業☆お寿司屋さん",
+          "code": "G001"
+        },
+        "budget": {
+          "code": "B008",
+          "name": "4001～5000円",
+          "average": "4500円"
+        },
+        "catch": "鳥取から仕入れたお魚 アットホームなお寿司屋",
+        "capacity": 11,
+        "access": "三ノ宮駅より徒歩4分",
+        "mobile_access": "三ﾉ宮駅より徒歩4分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001223871/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/10/98/P033221098/P033221098_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/10/98/P033221098/P033221098_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/10/98/P033221098/P033221098_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/10/98/P033221098/P033221098_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/10/98/P033221098/P033221098_100.jpg"
+          }
+        },
+        "open": "月、火、木～日、祝日、祝前日: 17:00～翌4:00 （料理L.O. 翌4:00 ドリンクL.O. 翌4:00）",
+        "close": "水",
+        "party_capacity": 11,
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "",
+        "wedding": "詳しくはスタッフにお問い合わせください。",
+        "course": "あり",
+        "free_drink": "なし",
+        "free_food": "なし",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "禁煙席なし",
+        "charter": "貸切可",
+        "parking": "なし ：近隣にコインパーキングございます。",
+        "barrier_free": "あり ：お手伝いいたします。",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業している",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れ歓迎",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001223871/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001223871/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J003325002",
+        "name": "一牛 神戸 三宮店",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/26/00/P043712600/P043712600_69.jpg",
+        "name_kana": "こしつ　くろげわぎゅうめすうしせんもんてん　いたまえやきにく　いちぎゅう　こうべ　さんのみや",
+        "address": "兵庫県神戸市中央区中山手通１丁目4の7東門ユーベルビル1階",
+        "station_name": "三宮",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6937605508,
+        "lng": 135.1915959257,
+        "genre": {
+          "name": "焼肉・ホルモン",
+          "catch": "大阪で人気の黒毛和牛雌牛一頭買い専門店◎",
+          "code": "G008"
+        },
+        "budget": {
+          "code": "B004",
+          "name": "5001～7000円",
+          "average": "6000円"
+        },
+        "catch": "誕生日や記念日に 肉寿司人数分プレゼント",
+        "capacity": 40,
+        "access": "神戸市営地下鉄西神・山手線三宮駅徒歩約3分/阪急神戸本線神戸三宮駅西出口より徒歩約6分",
+        "mobile_access": "神戸市営地下鉄西神･山手線三宮駅より徒歩約3分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003325002/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/37/32/P046463732/P046463732_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/37/32/P046463732/P046463732_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/37/32/P046463732/P046463732_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/37/32/P046463732/P046463732_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/37/32/P046463732/P046463732_100.jpg"
+          }
+        },
+        "open": "月、水～日、祝日、祝前日: 17:00～23:00 （料理L.O. 22:30 ドリンクL.O. 22:30）",
+        "close": "火",
+        "party_capacity": 30,
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "",
+        "wedding": "",
+        "course": "あり",
+        "free_drink": "なし",
+        "free_food": "なし",
+        "private_room": "あり",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "禁煙席なし",
+        "charter": "貸切可",
+        "parking": "なし",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れOK",
+        "wifi": "未確認",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003325002/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003325002/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J000029887",
+        "name": "魚匠 神戸 隆明 北野坂本店",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/11/63/P011541163/P011541163_69.jpg",
+        "name_kana": "ぎょしょうこうべたかあき　きたのざかほんてん",
+        "address": "兵庫県神戸市中央区加納町４-5-3",
+        "station_name": "三ノ宮",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6952590256,
+        "lng": 135.1930779672,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "中央市場仲買人プロデュースの鮮魚居酒屋",
+          "code": "G001"
+        },
+        "sub_genre": {
+          "name": "和食",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B003",
+          "name": "3001～4000円",
+          "average": "3800円。付きだしあります"
+        },
+        "catch": "●にぎり寿司食べ放題 ●泳がし鮮魚と獲たて鮮魚",
+        "capacity": 90,
+        "access": "★各線三宮駅徒歩３分三宮駅から北野坂に入りSTEPが見えます。その右の道をすすむとすぐにあります。",
+        "mobile_access": "北野坂に入りSTEPの右の道をすすむとすぐにあります｡",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ000029887/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/54/97/P025755497/P025755497_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/54/97/P025755497/P025755497_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/54/97/P025755497/P025755497_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/54/97/P025755497/P025755497_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/54/97/P025755497/P025755497_100.jpg"
+          }
+        },
+        "open": "月～日: 11:30～14:30 （料理L.O. 13:30 ドリンクL.O. 13:30）17:00～23:00 （料理L.O. 22:30 ドリンクL.O. 22:30）",
+        "close": "なし",
+        "party_capacity": 60,
+        "other_memo": "",
+        "shop_detail_memo": "貸切やお昼の宴会など、相談に応じます。※混雑時はお席2時間制とさせて頂きます、ご了承下さい。",
+        "budget_memo": "7/1から物価高騰によりランチ、 ディナー共に価格変更致します",
+        "wedding": "貸切やお昼の宴会など、相談に応じます。",
+        "course": "あり",
+        "free_drink": "あり ：コースに＋1500円、2名様より/120分（LO90分)",
+        "free_food": "あり ：ございません",
+        "private_room": "あり ：14名、22名(お問い合わせください)",
+        "horigotatsu": "なし ：ございません",
+        "tatami": "なし ：ございません",
+        "card": "利用可",
+        "non_smoking": "一部禁煙",
+        "charter": "貸切不可 ：60名様ぐらいまで可、応相談",
+        "parking": "なし",
+        "barrier_free": "なし ：ご相談くださいませ",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業していない",
+        "english": "あり",
+        "pet": "不可",
+        "child": "お子様連れ歓迎",
+        "wifi": "未確認",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ000029887/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ000029887/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J003762600",
+        "name": "寿司と海鮮 魚や三郎 三宮店",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/30/46/P044023046/P044023046_69.jpg",
+        "name_kana": "すしとかいせん　うおやさぶろう　さんのみやてん",
+        "address": "兵庫県神戸市中央区中山手通１-8-18 互陽ビル 1F",
+        "station_name": "三ノ宮",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6951740252,
+        "lng": 135.1926424528,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "鮮魚と赤酢のお寿司にこだわる寿司居酒屋",
+          "code": "G001"
+        },
+        "budget": {
+          "code": "B008",
+          "name": "4001～5000円",
+          "average": "ランチ1000円　ディナー4000円"
+        },
+        "catch": "カウンター席で静かに 豊富な日替りおすすめ料理",
+        "capacity": 29,
+        "access": "阪急神戸三宮駅HE3出口より徒歩約2分/JR三ノ宮駅中央口より徒歩約5分/神戸市営地下鉄三宮駅東出口8より徒歩約1分",
+        "mobile_access": "阪急神戸三宮駅HE3出口より徒歩約2分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003762600/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/46/00/P048394600/P048394600_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/46/00/P048394600/P048394600_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/46/00/P048394600/P048394600_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/46/00/P048394600/P048394600_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/46/00/P048394600/P048394600_100.jpg"
+          }
+        },
+        "open": "火～日、祝日、祝前日: 11:30～14:00 （料理L.O. 13:30 ドリンクL.O. 13:30）17:30～22:30 （料理L.O. 22:00 ドリンクL.O. 22:00）",
+        "close": "月",
+        "party_capacity": 29,
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "ランチは現金のみのお支払いとさせていただいております。",
+        "wedding": "",
+        "course": "あり",
+        "free_drink": "あり",
+        "free_food": "なし",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切不可",
+        "parking": "なし",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れ歓迎",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003762600/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003762600/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J001294838",
+        "name": "個室居酒屋 おやじの一本釣り 神戸三宮店",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/06/61/P039310661/P039310661_69.jpg",
+        "name_kana": "かいせんとすしとてんぷら　こしついざかや　おやじのいっぽんづり　こうべさんのみやてん",
+        "address": "兵庫県神戸市中央区中山手通１-6-20　トレビアンビル1階",
+        "station_name": "三宮",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6948890443,
+        "lng": 135.1920619578,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "-三宮で美味い寿司と天ぷらを味わう-",
+          "code": "G001"
+        },
+        "sub_genre": {
+          "name": "和食",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B003",
+          "name": "3001～4000円",
+          "average": "3500円"
+        },
+        "catch": "誕生日や歓送迎会に！ 個室は2名～最大25名様迄",
+        "capacity": 40,
+        "access": "各三ノ宮駅から徒歩2分。産地直送の「寿司ドック」「天ぷら」を堪能。完全個室2名～ご用意。宴会最大25名様までＯＫ！",
+        "mobile_access": "各三ﾉ宮駅から徒歩2分｡",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001294838/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/25/37/P039392537/P039392537_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/25/37/P039392537/P039392537_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/25/37/P039392537/P039392537_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/25/37/P039392537/P039392537_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/25/37/P039392537/P039392537_100.jpg"
+          }
+        },
+        "open": "月～木: 17:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）金: 17:00～翌3:00 （料理L.O. 翌2:00 ドリンクL.O. 翌2:30）土、祝日、祝前日: 16:00～翌3:00 （料理L.O. 翌2:00 ドリンクL.O. 翌2:30）日: 16:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "close": "不定休",
+        "party_capacity": 52,
+        "other_memo": "※不明点等、お気軽に店舗へご相談下さい",
+        "shop_detail_memo": "各種飲み放題付きコース等をご用意しております。",
+        "budget_memo": "お通し代",
+        "wedding": "各種飲み放題付きコース等をご用意しております。",
+        "course": "あり",
+        "free_drink": "あり",
+        "free_food": "なし ：食べ放題はございません。",
+        "private_room": "あり ：2人可、4人可、6人可、8人可、10～24人可 ",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "禁煙席なし",
+        "charter": "貸切可 ：20人以上",
+        "parking": "なし ：近隣にコインパーキングあり",
+        "barrier_free": "なし ：お店にご相談下さい",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業している",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れ歓迎 ：ご家族でもゆったりお食事可能です！",
+        "wifi": "あり",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001294838/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001294838/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J003366468",
+        "name": "牡蠣と肉寿司 和ごころ 食職 神戸三宮店",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/40/03/P040204003/P040204003_69.jpg",
+        "name_kana": "かきとにくずし　わごころ　しょくしょく　こうべさんのみやてん",
+        "address": "兵庫県神戸市中央区中山手通１-7-19　平安ビル　B1F",
+        "station_name": "三宮",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6951190246,
+        "lng": 135.192342481,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "～隠れ家和食【食職】で今宵は一杯～",
+          "code": "G001"
+        },
+        "budget": {
+          "code": "B003",
+          "name": "3001～4000円",
+          "average": "4000円"
+        },
+        "catch": "目と舌で楽しむおばんざい 和を愉しむ・・・すき焼き",
+        "capacity": 18,
+        "access": "各各三宮駅徒歩5分/元町駅徒歩8分",
+        "mobile_access": "各各三宮駅徒歩5分/元町駅徒歩8分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003366468/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/80/20/P040288020/P040288020_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/80/20/P040288020/P040288020_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/80/20/P040288020/P040288020_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/80/20/P040288020/P040288020_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/80/20/P040288020/P040288020_100.jpg"
+          }
+        },
+        "open": "月～土、祝日、祝前日: 17:00～翌0:00 （料理L.O. 22:30 ドリンクL.O. 22:30）",
+        "close": "日",
+        "party_capacity": 20,
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "",
+        "wedding": "",
+        "course": "あり",
+        "free_drink": "あり",
+        "free_food": "なし",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切可",
+        "parking": "なし",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れOK",
+        "wifi": "あり",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003366468/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003366468/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J001250328",
+        "name": "鮨 酒 肴 杉玉 神戸北野坂",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/68/00/P036286800/P036286800_69.jpg",
+        "name_kana": "すし　さけ　さかな　すぎだま　こうべきたのざか",
+        "address": "兵庫県神戸市中央区加納町４-6-11",
+        "station_name": "神戸三宮",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "XF02",
+          "name": "神戸北野"
+        },
+        "lat": 34.6954487216,
+        "lng": 135.1928771451,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "安くて旨い！こだわり大衆寿司居酒屋◇",
+          "code": "G001"
+        },
+        "budget": {
+          "code": "B001",
+          "name": "1501～2000円",
+          "average": ""
+        },
+        "catch": "こだわりのお寿司 酒に合う肴もどうぞ",
+        "capacity": 52,
+        "access": "JR三ノ宮駅（神戸市営）から徒歩5分/神戸市営地下鉄三宮駅から徒歩5分/阪急【阪神】神戸三宮駅から徒歩5分",
+        "mobile_access": "JR三ﾉ宮駅(神戸市営)から徒歩5分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001250328/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/69/90/P047536990/P047536990_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/69/90/P047536990/P047536990_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/69/90/P047536990/P047536990_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/69/90/P047536990/P047536990_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/69/90/P047536990/P047536990_100.jpg"
+          }
+        },
+        "open": "月～木: 17:00～23:00 （料理L.O. 22:30 ドリンクL.O. 22:30）金: 17:00～翌0:00 （料理L.O. 23:30 ドリンクL.O. 23:30）土: 11:30～翌0:00 （料理L.O. 23:30 ドリンクL.O. 23:30）日、祝日: 11:30～22:00 （料理L.O. 21:30 ドリンクL.O. 21:30）",
+        "close": "なし",
+        "party_capacity": "",
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "",
+        "wedding": "※お電話にてお問い合わせくださいませ。",
+        "course": "あり",
+        "free_drink": "あり",
+        "free_food": "なし",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切不可",
+        "parking": "なし ：近隣にコインパーキングあり",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業している",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れOK",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001250328/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001250328/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J003807048",
+        "name": "神戸 かに蔵 三宮店",
+        "logo_image": "https://imgfp.hotp.jp/SYS/cmn/images/common/diary/custom/m30_img_noimage.gif",
+        "name_kana": "こうべかにぞうさんのみやてん",
+        "address": "兵庫県神戸市中央区下山手通１-1-1 東新ビル4階A",
+        "station_name": "三宮",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6936041733,
+        "lng": 135.1913184554,
+        "genre": {
+          "name": "和食",
+          "catch": "蟹・寿司　食べ放題　8910円～ご用意★",
+          "code": "G004"
+        },
+        "sub_genre": {
+          "name": "居酒屋",
+          "code": "G001"
+        },
+        "budget": {
+          "code": "B004",
+          "name": "5001～7000円",
+          "average": "7000円"
+        },
+        "catch": "お寿司も食べ飲放題★ 落ち着ける雰囲気で◎",
+        "capacity": 82,
+        "access": "山手線三宮徒歩約1分/ＪＲ東海道本線三ノ宮(ＪＲ)駅西口約6分/阪急神戸本線，神戸三宮約3分★",
+        "mobile_access": "JR三ﾉ宮(JR)駅約3分/阪急神戸本線神戸三宮約2分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003807048/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/52/08/P043435208/P043435208_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/52/08/P043435208/P043435208_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/52/08/P043435208/P043435208_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/52/08/P043435208/P043435208_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/52/08/P043435208/P043435208_100.jpg"
+          }
+        },
+        "open": "月～金: 16:30～23:30 （料理L.O. 23:00 ドリンクL.O. 23:00）土、日、祝日: 16:00～23:30 （料理L.O. 23:00 ドリンクL.O. 23:00）",
+        "close": "１２月の土日でランチ営業を行います！不定休日あり",
+        "party_capacity": 100,
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "",
+        "wedding": "～100名様貸切可♪ご予算・人数などに応じてご相談可能です。",
+        "course": "あり",
+        "free_drink": "あり ：食べ飲み放題プランをご用意！",
+        "free_food": "なし",
+        "private_room": "あり",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "一部禁煙",
+        "charter": "貸切不可 ：貸切可♪ご予算・人数などに応じてご相談可能ですのでお気軽にお問合せください。",
+        "parking": "なし ：近隣のコインパーキングをご利用ください。飲酒の際はお車でのご来店はご遠慮ください。",
+        "barrier_free": "なし ：サポートが必要なお客様がいらっしゃいましたらご相談ください。",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業していない",
+        "english": "あり",
+        "pet": "不可",
+        "child": "お子様連れ歓迎 ：お子様もぜひご一緒にどうぞ☆",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003807048/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003807048/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J003807049",
+        "name": "トリサカナ 神戸三宮店",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/21/29/P042122129/P042122129_69.jpg",
+        "name_kana": "やきとりとすしたべほうだいとりさかなこうべさんのみやてん",
+        "address": "兵庫県神戸市中央区下山手通１-1-1  東進ビル4階B",
+        "station_name": "三宮",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6936041733,
+        "lng": 135.1913184554,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "焼鳥・寿司・鍋が食べ放題！３４８０円から",
+          "code": "G001"
+        },
+        "sub_genre": {
+          "name": "和食",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B003",
+          "name": "3001～4000円",
+          "average": "3000円～"
+        },
+        "catch": "日本酒が豊富な居酒屋★ 海鮮/しゃぶしゃぶ食放題",
+        "capacity": 174,
+        "access": "山手線三宮徒歩約1分/ＪＲ東海道本線三ノ宮(ＪＲ)駅西口約6分/阪急神戸本線，神戸三宮約3分★",
+        "mobile_access": "三ﾉ宮(JR)駅約6分/阪急神戸本線,神戸三宮約3分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003807049/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/46/96/P042134696/P042134696_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/46/96/P042134696/P042134696_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/46/96/P042134696/P042134696_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/46/96/P042134696/P042134696_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/46/96/P042134696/P042134696_100.jpg"
+          }
+        },
+        "open": "月～金: 16:30～23:30 （料理L.O. 23:00 ドリンクL.O. 23:00）土、日、祝日: 16:00～23:30 （料理L.O. 23:00 ドリンクL.O. 23:00）",
+        "close": "１２月の土日及び年末年始はランチから営業いたします！不定休日あり",
+        "party_capacity": 174,
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "※アラカルト利用別途お通し代税込み418円を頂戴しております。",
+        "wedding": "100～174名様貸切可♪ご予算・人数などに応じてご相談可能です。",
+        "course": "あり",
+        "free_drink": "あり ：食べ飲み放題プランをご用意！",
+        "free_food": "あり ：こだわり食材の食べ飲み放題♪",
+        "private_room": "あり",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "一部禁煙",
+        "charter": "貸切不可 ：貸切可♪ご予算・人数などに応じてご相談可能ですのでお気軽にお問合せください。",
+        "parking": "なし ：近隣のコインパーキングをご利用ください。飲酒の際はお車でのご来店はご遠慮ください。",
+        "barrier_free": "なし ：サポートが必要なお客様がいらっしゃいましたらご相談ください。",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業していない",
+        "english": "あり",
+        "pet": "不可",
+        "child": "お子様連れ歓迎 ：※お子様料金  ・小学生以下 無料  ・小学生 コース料金の半額   ・中学生以上 通常料金  ",
+        "wifi": "あり",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003807049/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003807049/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J001258431",
+        "name": "和ノ個室 鶏の馬美 三宮店",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/70/44/P036507044/P036507044_69.jpg",
+        "name_kana": "にくずしとやきとりとやさいまきぐし　わのこしつ　とりのうまび　さんのみやてん",
+        "address": "兵庫県神戸市中央区北長狭通１丁目9号10番　プリセスコーストビル 3F",
+        "station_name": "三ノ宮",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6929109236,
+        "lng": 135.191524294,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "和個室で絶品肉寿司と焼き鳥を堪能",
+          "code": "G001"
+        },
+        "sub_genre": {
+          "name": "創作料理",
+          "code": "G003"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": "ディナー3000円"
+        },
+        "catch": "コロンと可愛い手毬肉寿司 豪華絢爛！つくね盛り合せ",
+        "capacity": 37,
+        "access": "各三宮駅から徒歩3分",
+        "mobile_access": "各三宮駅から徒歩3分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001258431/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/59/75/P040785975/P040785975_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/59/75/P040785975/P040785975_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/59/75/P040785975/P040785975_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/59/75/P040785975/P040785975_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/59/75/P040785975/P040785975_100.jpg"
+          }
+        },
+        "open": "月～木: 16:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:00）金、祝前日: 16:00～翌1:00 （料理L.O. 翌0:00 ドリンクL.O. 翌0:00）土: 14:00～翌2:00 （料理L.O. 翌1:00 ドリンクL.O. 翌1:30）日、祝日: 12:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:00）",
+        "close": "不定休◆",
+        "party_capacity": 37,
+        "other_memo": "不明点等、お気軽に店舗へご相談ください。個室でも食事をお楽しみいただけます。",
+        "shop_detail_memo": "★サプライズ対応可能★誕生日・記念日等のお祝いにはデザートプレートもご用意可能です！※要予約",
+        "budget_memo": "お通しあり",
+        "wedding": "貸切最大30名様ご予約受付中！詳細は店舗までお問い合わせください☆",
+        "course": "あり",
+        "free_drink": "あり",
+        "free_food": "あり ：一部食べ放題プランご用意",
+        "private_room": "あり ：2名様～16名様迄ご案内可能の個室を完備しています。女子会・誕生日等にも◎",
+        "horigotatsu": "あり ：落ち着いた雰囲気が漂うモダンな店内は、女子会でのご利用にもおすすめです。",
+        "tatami": "あり ：靴を脱いでゆったりと寛げるお座敷はちょっとした飲み会から、30名様迄の大人数利用にもおすすめです。",
+        "card": "利用可",
+        "non_smoking": "禁煙席なし",
+        "charter": "貸切可 ：【ご予約受付中】大人数には店内を丸っと貸切がおすすめ！40名様～最大60名様迄承ります♪",
+        "parking": "なし ：お近くのコインパーキングをご利用ください。また、お酒を飲まれる際はお車でのお越しはご遠慮ください。",
+        "barrier_free": "なし ：バリアフリーではございませんが、お手伝いが必要な方は気軽にスタッフまでお声がけくださいませ。",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業している",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れOK ：お子様連れのお客様も大歓迎！6名様～30名様迄ご利用いただける掘りごたつ個室を完備しています♪",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001258431/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001258431/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J001245891",
+        "name": "個室居酒屋 一休さん 三宮店",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/30/33/P036403033/P036403033_69.jpg",
+        "name_kana": "あぶりにくずしたべほうだいこしついざかやいっきゅうさんさんのみやてん",
+        "address": "兵庫県神戸市中央区北長狭通１-9-11 コーストフロムビル3F",
+        "station_name": "三ノ宮",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6929848015,
+        "lng": 135.1914101349,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "三宮 個室 居酒屋 食べ放題 飲み放題 宴会",
+          "code": "G001"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": "3000円　『炙り肉寿司食べ放題』が期間限定1680円"
+        },
+        "catch": "旨味を凝縮した炙り肉寿司 2～40名様まで★個室多数",
+        "capacity": 70,
+        "access": "各線三宮駅より徒歩3分以内。地下鉄山手線三宮駅西出口からは徒歩1分。生田ロード沿いの東側ビルの3階。",
+        "mobile_access": "各線三宮駅より徒歩3分以内｡生田ﾛｰﾄﾞ沿い東側｡",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001245891/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/28/77/P036402877/P036402877_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/28/77/P036402877/P036402877_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/28/77/P036402877/P036402877_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/28/77/P036402877/P036402877_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/28/77/P036402877/P036402877_100.jpg"
+          }
+        },
+        "open": "月～日、祝日、祝前日: 17:00～翌0:00 （料理L.O. 23:30 ドリンクL.O. 23:30）",
+        "close": "なし",
+        "party_capacity": 70,
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "チャージあり(コースの場合はチャージ料なし)",
+        "wedding": "貸切、営業時間外でのご利用、婚活PARTYや各種PARTY等、お気軽にお問い合わせ下さい。",
+        "course": "あり",
+        "free_drink": "あり ：全コースに3時間飲み放題付き！約70種類のドリンクをご用意♪",
+        "free_food": "あり ：『炙り肉寿司食べ放題』が期間限定1680円！思い切り食べて飲んで盛り上がってください♪",
+        "private_room": "あり ：記念日や合コンのも使える完全個室席ございます♪三宮での特別な夜にぜひ！",
+        "horigotatsu": "あり ：団体様に大人気！足を伸ばして寛げる４０名様まで収容可能な団体広間ございます！",
+        "tatami": "あり ：広々ご利用頂ける掘りごたつタイプのお座敷席をご用意しております。",
+        "card": "利用可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切可 ：各種ご宴会、二次会等、お気軽にお問合せください。",
+        "parking": "なし ：お近くにコインパーキングがございます。各種ご宴会、二次会等、お気軽にお問合せください",
+        "barrier_free": "なし ：店内は広い通路と大きな段差はございません。不便な際はスタッフがお手伝い致します。",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業している",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れ歓迎 ：団体様に大人気！足を伸ばして寛げる団体広間ございます！！",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001245891/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001245891/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J003828869",
+        "name": "大衆酒場むに 神戸三宮サンキタ通り店",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/55/84/P046125584/P046125584_69.jpg",
+        "name_kana": "かいせんとにく　たべのみほうだいいざかや　たいしゅうさかばむに　こうべさんのみやさんきたどおりてん",
+        "address": "兵庫県神戸市中央区北長狭通１-9-5 日栄堂ビル 3F",
+        "station_name": "神戸三宮",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6926140174,
+        "lng": 135.1917206756,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "肉寿司  大衆酒場　食べ放題　飲み放題",
+          "code": "G001"
+        },
+        "sub_genre": {
+          "name": "ダイニングバー・バル",
+          "code": "G002"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": "2,500~3,000"
+        },
+        "catch": "神コスパ食べ飲みあり！ ドリンクが安い！",
+        "capacity": 60,
+        "access": "神戸三宮(阪急)駅より徒歩約1分/三宮(神戸市営)駅より徒歩約3分/神戸三宮(阪神)駅より徒歩約7分 ",
+        "mobile_access": "神戸三宮(阪急)駅徒歩1分/三宮(神戸市営)駅徒歩3分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003828869/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/53/42/P046125342/P046125342_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/53/42/P046125342/P046125342_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/53/42/P046125342/P046125342_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/53/42/P046125342/P046125342_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/53/42/P046125342/P046125342_100.jpg"
+          }
+        },
+        "open": "月～金、祝前日: 17:00～翌0:00 （料理L.O. 23:30 ドリンクL.O. 23:30）土: 12:00～翌0:00 （料理L.O. 23:30 ドリンクL.O. 23:30）日、祝日: 12:00～23:00 （料理L.O. 22:30 ドリンクL.O. 22:30）",
+        "close": "定休日なし",
+        "party_capacity": 70,
+        "other_memo": "",
+        "shop_detail_memo": "不明点等、お気軽に店舗へご案内下さい。",
+        "budget_memo": "チャージ料なし◎",
+        "wedding": "バースデイ、サプライズ、予算に合わせた宴会をプランニングします。",
+        "course": "あり",
+        "free_drink": "あり ：単品飲み放題999円～ご用意しております◎",
+        "free_food": "あり",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし ：座敷はございませんが、テーブル席をご用意しております。",
+        "card": "利用可",
+        "non_smoking": "禁煙席なし",
+        "charter": "貸切可 ：貸し切りは65名～75名様承ります！お気軽にご相談ください♪",
+        "parking": "なし ：お近くのコインパーキングをご利用下さい。お酒を飲まれる場合はお車でのお越しをご遠慮下さい",
+        "barrier_free": "なし ：可能な限りお手伝いいたします！食べ放題　飲み放題",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業している",
+        "english": "あり",
+        "pet": "不可",
+        "child": "お子様連れOK",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003828869/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003828869/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J001259671",
+        "name": "スシエビス 三宮",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/17/90/P036821790/P036821790_69.jpg",
+        "name_kana": "さんのみやすしえびす",
+        "address": "兵庫県神戸市中央区北長狭通1-9-4 岸卯ビル1F",
+        "station_name": "三宮",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6926312367,
+        "lng": 135.1916751235,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "三宮駅徒歩1分！気軽に呑める寿司居酒屋！",
+          "code": "G001"
+        },
+        "sub_genre": {
+          "name": "和食",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": ""
+        },
+        "catch": "破格の飲み放題999円 特製バースデープレート♪",
+        "capacity": 40,
+        "access": "阪急・地下鉄「三宮駅」から徒歩約2分　JR「三ノ宮駅」から徒歩約2分 ",
+        "mobile_access": "阪急･地下鉄｢三宮駅｣･JR｢三ﾉ宮駅｣徒歩約2分 ",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001259671/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/81/37/P048118137/P048118137_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/81/37/P048118137/P048118137_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/81/37/P048118137/P048118137_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/81/37/P048118137/P048118137_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/81/37/P048118137/P048118137_100.jpg"
+          }
+        },
+        "open": "月～金、祝前日: 15:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）土、日、祝日: 12:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "close": "なし",
+        "party_capacity": "",
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "",
+        "wedding": "",
+        "course": "あり",
+        "free_drink": "あり",
+        "free_food": "なし",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "禁煙席なし",
+        "charter": "貸切不可",
+        "parking": "なし",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業している",
+        "english": "あり",
+        "pet": "不可",
+        "child": "お子様連れOK ：子供可（乳児可、未就学児可、小学生可）、お子様メニューあり、ベビーカー入店可 ",
+        "wifi": "未確認",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001259671/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001259671/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J001238804",
+        "name": "肉寿司居酒屋 ニクタラシ 三宮店",
+        "logo_image": "https://imgfp.hotp.jp/SYS/cmn/images/common/diary/custom/m30_img_noimage.gif",
+        "name_kana": "さんじかんたべのみほうだいにくずしいざかやにくたらしさんのみやてん",
+        "address": "兵庫県神戸市中央区北長狭通１-9-8　クイーンズコーストビル　4F",
+        "station_name": "三宮",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6926612304,
+        "lng": 135.191549578,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "全席個室◆人気メニュー3h食べ飲みは圧巻！",
+          "code": "G001"
+        },
+        "sub_genre": {
+          "name": "ダイニングバー・バル",
+          "code": "G002"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": "通常：3000円　宴会：3500円"
+        },
+        "catch": "3時間の至福のひと時を 逸品の数々、全て食べ放題",
+        "capacity": 70,
+        "access": "三宮駅徒歩２分！生田ロード沿い　ビッグエコーさんの向いのビル4階",
+        "mobile_access": "三宮駅徒歩2分!生田ﾛｰﾄﾞ沿い",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001238804/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/84/20/P045898420/P045898420_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/84/20/P045898420/P045898420_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/84/20/P045898420/P045898420_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/84/20/P045898420/P045898420_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/84/20/P045898420/P045898420_100.jpg"
+          }
+        },
+        "open": "月～木: 17:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）金: 17:00～翌1:00 （料理L.O. 23:30 ドリンクL.O. 翌0:00）土: 12:00～翌1:00 （料理L.O. 23:30 ドリンクL.O. 翌0:00）日、祝日: 12:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "close": "不定休お店の状況により営業時間が変更になる場合があります。予めご了承下さいませ。",
+        "party_capacity": 80,
+        "other_memo": "ご宴会に必要な備品・設備があればご相談ください。貸切予約も◎",
+        "shop_detail_memo": "メッセージプレートご希望時は、予約時フォームのご要望欄へ希望メッセージを記載の上ご予約お願い致します",
+        "budget_memo": "コース予約当日キャンセル：キャンセル料コース代金100％",
+        "wedding": "結婚式の2次会や打ち上げパーティーなどのご利用も大歓迎です。",
+        "course": "あり",
+        "free_drink": "あり ：2時間飲放題980円",
+        "free_food": "あり ：【金土祝前】：席のみご予約/フリー来店の方については、当日来店後にて食べ飲み放題のご利用は不可",
+        "private_room": "あり ：2名～20名迄の各個室テーブル有り",
+        "horigotatsu": "なし ：個室テーブルのみ",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "一部禁煙",
+        "charter": "貸切可 ：～最大80名様迄",
+        "parking": "なし ：近くにコインパーキングがございます",
+        "barrier_free": "なし ：必要の際はお声かけください",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業している",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れ歓迎 ：大歓迎です",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001238804/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001238804/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J001238805",
+        "name": "肉たらし 三宮駅前店",
+        "logo_image": "https://imgfp.hotp.jp/SYS/cmn/images/common/diary/custom/m30_img_noimage.gif",
+        "name_kana": "こしつにくずしたべのみほうだいにくたらしさんのみやえきまえてん",
+        "address": "兵庫県神戸市中央区北長狭通１-9-8　クインズコーストビル4Ｆ",
+        "station_name": "三宮",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6926262344,
+        "lng": 135.1915512457,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "完全個室◆最大170種！食べ飲みの新名所！",
+          "code": "G001"
+        },
+        "sub_genre": {
+          "name": "和食",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": "通常：3000円　宴会：3500円"
+        },
+        "catch": "今宵は時間を気にせず乾杯 OPEN御礼◆2H食べ飲2499円",
+        "capacity": 70,
+        "access": " 三宮駅徒歩２分！生田ロード沿い　ビッグエコーさんの向いのビル4階♪",
+        "mobile_access": " 三宮駅徒歩2分!生田ﾛｰﾄﾞ沿い ",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001238805/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/84/81/P045898481/P045898481_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/84/81/P045898481/P045898481_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/84/81/P045898481/P045898481_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/84/81/P045898481/P045898481_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/84/81/P045898481/P045898481_100.jpg"
+          }
+        },
+        "open": "月～木: 17:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）金: 17:00～翌1:00 （料理L.O. 23:30 ドリンクL.O. 翌0:00）土: 12:00～翌1:00 （料理L.O. 23:30 ドリンクL.O. 翌0:00）日、祝日: 12:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "close": "不定休お店の状況により営業時間が変更になる場合があります。予めご了承下さいませ。",
+        "party_capacity": 70,
+        "other_memo": "ご宴会に必要な備品・設備があればご相談ください。貸切予約も◎",
+        "shop_detail_memo": "メッセージプレートご希望時は、予約時フォームのご要望欄へ希望メッセージを記載の上ご予約お願い致します",
+        "budget_memo": "コース予約当日キャンセル：キャンセル料コース代金100％",
+        "wedding": "結婚式の2次会や打ち上げパーティーなどのご利用も大歓迎です。",
+        "course": "あり",
+        "free_drink": "あり ：2時間飲放題980円",
+        "free_food": "あり ：【金土祝前】：席のみご予約/フリー来店の方については、当日来店後にて食べ飲み放題のご利用は不可",
+        "private_room": "あり ：2名～の個室テーブル有り",
+        "horigotatsu": "なし ：個室テーブル",
+        "tatami": "なし ：座敷のご用意はございません。",
+        "card": "利用可",
+        "non_smoking": "一部禁煙",
+        "charter": "貸切可 ：～最大80名様迄",
+        "parking": "なし ：近くにコインパーキングがございます",
+        "barrier_free": "なし ：必要の際はお声かけください",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業している",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れ歓迎 ：大歓迎です",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001238805/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001238805/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J000019328",
+        "name": "海流 三宮店",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/19/23/P001001923/P001001923_69.jpg",
+        "name_kana": "かいせんいざかや　かいりゅう　さんのみやてん",
+        "address": "兵庫県神戸市中央区琴ノ緒町５－１－４１１",
+        "station_name": "三ノ宮",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6950979786,
+        "lng": 135.1950694642,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "ランチ営業中！市場直送に命を賭けます！",
+          "code": "G001"
+        },
+        "sub_genre": {
+          "name": "創作料理",
+          "code": "G003"
+        },
+        "budget": {
+          "code": "B003",
+          "name": "3001～4000円",
+          "average": "3000円"
+        },
+        "catch": "●[寿司＆造り]鮮魚自慢!! ●飲放付コース3980円～",
+        "capacity": 74,
+        "access": "JR三宮駅　高架下沿いの山側すぐにあります。",
+        "mobile_access": "JR三宮駅 高架下沿いの山側すぐにあります｡",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ000019328/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/94/93/P031989493/P031989493_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/94/93/P031989493/P031989493_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/94/93/P031989493/P031989493_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/94/93/P031989493/P031989493_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/94/93/P031989493/P031989493_100.jpg"
+          }
+        },
+        "open": "月～金、祝日、祝前日: 17:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）土、日: 16:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "close": "年中無休",
+        "party_capacity": 40,
+        "other_memo": "その他ご要望はお店までお問合せください",
+        "shop_detail_memo": "その他ご要望はお店までお問合せください",
+        "budget_memo": "単品注文の方：付出料350円",
+        "wedding": "ご要望はお店までお問合せください",
+        "course": "あり",
+        "free_drink": "あり ：コースに含む",
+        "free_food": "なし ：コース料理をご用意しております",
+        "private_room": "あり ：2名様・4名様・6名様・8名様～40名様までOK",
+        "horigotatsu": "あり ：個室をご用意しております。",
+        "tatami": "なし ：個室をご用意しております。",
+        "card": "利用可",
+        "non_smoking": "一部禁煙",
+        "charter": "貸切不可 ：40名様までの個室をご用意しております",
+        "parking": "なし ：近くにコインパーキングをご用意しております",
+        "barrier_free": "なし ：スタッフ一同お手伝い致します",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業している",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れ歓迎 ：個室をご用意しております",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ000019328/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ000019328/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J001193694",
+        "name": "義経 三ノ宮",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/04/96/P042640496/P042640496_69.jpg",
+        "name_kana": "よしつね",
+        "address": "兵庫県神戸市中央区琴ノ緒町５-1-409",
+        "station_name": "三ノ宮",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6951468616,
+        "lng": 135.1950558527,
+        "genre": {
+          "name": "和食",
+          "catch": "居酒屋 和食 飲み放題！駅近で便利！",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": "2500円"
+        },
+        "catch": "●[寿司＆造り]鮮魚自慢!! ●宴会に！個室充実♪",
+        "capacity": 78,
+        "access": "JR三宮駅　高架下沿いの山側すぐにあります。",
+        "mobile_access": "JR三宮駅 高架下沿いの山側すぐにあります｡",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001193694/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/42/69/P035024269/P035024269_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/42/69/P035024269/P035024269_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/42/69/P035024269/P035024269_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/42/69/P035024269/P035024269_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/42/69/P035024269/P035024269_100.jpg"
+          }
+        },
+        "open": "月～日: 12:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "close": "年中無休",
+        "party_capacity": 40,
+        "other_memo": "その他ご要望はお店までお問合せください",
+        "shop_detail_memo": "予約来店の方は来店時に予約をされた旨を必ずお伝え下さい。申し出のない場合ポイントの付与はありません。",
+        "budget_memo": "付出料300円",
+        "wedding": "ご要望はお店までお問合せください",
+        "course": "あり",
+        "free_drink": "あり ：コース料理は飲み放題付き4000円～！",
+        "free_food": "なし ：コース料理は飲み放題付き4000円～！",
+        "private_room": "あり ：2名様～30名様迄様々な人数にご対応可能です♪",
+        "horigotatsu": "あり ：2名様～30名様迄様々な人数にご対応可能の個室をご用意しております♪",
+        "tatami": "なし ：掘りごたつ式座敷をご用意しております。",
+        "card": "利用可",
+        "non_smoking": "一部禁煙",
+        "charter": "貸切可 ：最大30名様までの個室のご用意可♪1階貸切は40名様までご対応可能です！",
+        "parking": "なし ：近隣のコインパーキングをご利用ください",
+        "barrier_free": "なし ：お手伝い致します。",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業している",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れ歓迎",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001193694/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001193694/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J003433555",
+        "name": "和牛たんじ 三宮店",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/82/88/P045618288/P045618288_69.jpg",
+        "name_kana": "わぎゅうたんじ　さんのみやてん",
+        "address": "兵庫県神戸市中央区北長狭通２-１２-１０ 神戸三宮セントラルビル ６階",
+        "station_name": "三宮",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6928525884,
+        "lng": 135.191153773,
+        "genre": {
+          "name": "焼肉・ホルモン",
+          "catch": "和牛も、肉寿司も、プチ贅沢焼肉食べ放題。",
+          "code": "G008"
+        },
+        "sub_genre": {
+          "name": "居酒屋",
+          "code": "G001"
+        },
+        "budget": {
+          "code": "B003",
+          "name": "3001～4000円",
+          "average": "4000円"
+        },
+        "catch": "厚切仙台牛タンを食べ放題 和牛肉寿司が食べ放題",
+        "capacity": 150,
+        "access": "市営地下鉄　三宮駅から徒歩約1分",
+        "mobile_access": "市営地下鉄 三宮駅から徒歩約1分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003433555/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/82/90/P045618290/P045618290_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/82/90/P045618290/P045618290_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/82/90/P045618290/P045618290_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/82/90/P045618290/P045618290_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/82/90/P045618290/P045618290_100.jpg"
+          }
+        },
+        "open": "月～日、祝日: 16:00～23:00 （料理L.O. 21:30 ドリンクL.O. 21:30）",
+        "close": "不定休(12/31・1/1はお休み)",
+        "party_capacity": 20,
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "",
+        "wedding": "",
+        "course": "あり",
+        "free_drink": "あり",
+        "free_food": "あり",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切不可",
+        "parking": "なし ：近くにコインパーキングが多数ございます♪",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れOK",
+        "wifi": "未確認",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003433555/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003433555/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J003807187",
+        "name": "大衆酒場むに 神戸三宮生田ロード店",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/96/50/P044469650/P044469650_69.jpg",
+        "name_kana": "こしついざかや　たべのみほうだい　たいしゅうさかばむに　こうべさんのみやいくたろーどてん",
+        "address": "兵庫県神戸市中央区下山手通２‐1‐14　アークコーストビル3階",
+        "station_name": "三宮",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6930356193,
+        "lng": 135.1909890591,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "肉寿司  大衆酒場　食べ放題　飲み放題",
+          "code": "G001"
+        },
+        "sub_genre": {
+          "name": "ダイニングバー・バル",
+          "code": "G002"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": "2,500~3,000"
+        },
+        "catch": "昼飲み♪コスパ◎ 神戸の超人気大衆酒場！",
+        "capacity": 64,
+        "access": "JR,阪急神戸三宮駅、地下鉄山手線三宮駅より徒歩約1分にある人気の大衆居酒屋。女子会、誕生日、記念日にもオススメ！",
+        "mobile_access": "JR,阪急神戸三宮駅から徒歩1分にある人気の大衆居酒屋",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003807187/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/12/22/P045621222/P045621222_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/12/22/P045621222/P045621222_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/12/22/P045621222/P045621222_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/12/22/P045621222/P045621222_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/12/22/P045621222/P045621222_100.jpg"
+          }
+        },
+        "open": "月～木: 17:00～23:00 （料理L.O. 22:30 ドリンクL.O. 22:30）金、祝前日: 17:00～翌0:00 （料理L.O. 23:30 ドリンクL.O. 23:30）土: 12:00～翌0:00 （料理L.O. 23:30 ドリンクL.O. 23:30）日、祝日: 12:00～23:00 （料理L.O. 22:30 ドリンクL.O. 22:30）",
+        "close": "定休日なし",
+        "party_capacity": 75,
+        "other_memo": "",
+        "shop_detail_memo": "不明点等、お気軽に店舗へご案内下さい。",
+        "budget_memo": "チャージ料なし◎",
+        "wedding": "バースデイ、サプライズ、予算に合わせた宴会をプランニングします。",
+        "course": "あり",
+        "free_drink": "あり ：単品飲み放題1000円～ご用意しております◎",
+        "free_food": "あり",
+        "private_room": "あり ：ゆったりとした掘りごたつの個室をご用意できます♪",
+        "horigotatsu": "あり ：ご用意あります。",
+        "tatami": "なし ：座敷はございませんが、テーブル席をご用意しています♪",
+        "card": "利用可",
+        "non_smoking": "禁煙席なし",
+        "charter": "貸切可 ：貸し切りは65名～75名様承ります！お気軽にご相談ください♪",
+        "parking": "なし ：お近くのコインパーキングをご利用下さい。お酒を飲まれる場合はお車でのお越しをご遠慮下さい",
+        "barrier_free": "なし ：可能な限りお手伝いいたします！食べ放題　飲み放題",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業している",
+        "english": "あり",
+        "pet": "不可",
+        "child": "お子様連れOK",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003807187/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003807187/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J003324722",
+        "name": "居酒屋 ことぶき 神戸三宮本店",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/65/55/P039866555/P039866555_69.jpg",
+        "name_kana": "にくずしとやきとりとつくねがおいしいおみせ　こしついざかや　ことぶき　こうべさんのみやほんてん",
+        "address": "兵庫県神戸市中央区北長狭通２-12-6 Kビル4階",
+        "station_name": "神戸三宮",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6928189794,
+        "lng": 135.1910801695,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "美味しさと映えがコンセプトの肉酒場横丁",
+          "code": "G001"
+        },
+        "budget": {
+          "code": "B003",
+          "name": "3001～4000円",
+          "average": "3500円"
+        },
+        "catch": "ビール含単品飲み放題￥777 個室で誕生日サプライズ♪",
+        "capacity": 40,
+        "access": "各三ノ宮駅から徒歩2分。肉寿司や炙り焼きしゃぶなど肉料理を堪能♪完全個室2名～ご用意。宴会最大40名様までＯＫ！",
+        "mobile_access": "各三ﾉ宮駅から徒歩2分｡",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003324722/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/65/54/P039866554/P039866554_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/65/54/P039866554/P039866554_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/65/54/P039866554/P039866554_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/65/54/P039866554/P039866554_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/65/54/P039866554/P039866554_100.jpg"
+          }
+        },
+        "open": "月～金、祝前日: 17:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）土: 14:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）日、祝日: 15:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "close": "不定休",
+        "party_capacity": 52,
+        "other_memo": "※不明点等、お気軽に店舗へご相談下さい",
+        "shop_detail_memo": "各種飲み放題付きコース等をご用意しております。",
+        "budget_memo": "お通し代420円（＋税）",
+        "wedding": "各種飲み放題付きコース等をご用意しております。",
+        "course": "あり",
+        "free_drink": "あり",
+        "free_food": "なし ：食べ放題はございません。",
+        "private_room": "あり ：2人可、4人可、6人可、8人可、10～24人可 ",
+        "horigotatsu": "なし ：全席完全個室",
+        "tatami": "なし ：全席完全個室",
+        "card": "利用可",
+        "non_smoking": "禁煙席なし",
+        "charter": "貸切可 ：20人以上",
+        "parking": "なし ：近隣にコインパーキングあり",
+        "barrier_free": "なし ：お店にご相談下さい",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業している",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れ歓迎 ：ご家族でもゆったりお食事可能です！",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003324722/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003324722/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J003411476",
+        "name": "手まり寿司と天ぷら イヅモ",
+        "logo_image": "https://imgfp.hotp.jp/SYS/cmn/images/common/diary/custom/m30_img_noimage.gif",
+        "name_kana": "かっぽうさかばいづも",
+        "address": "兵庫県神戸市中央区北長狭通２-1-1 パープル山勝ビル1F",
+        "station_name": "神戸三宮",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6923021001,
+        "lng": 135.1913562737,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "魚と出汁にこだわった割烹をお手頃価格で♪",
+          "code": "G001"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": "2000円～3000円"
+        },
+        "catch": "目にも美しい手毬寿司♪ 新鮮な魚介提供",
+        "capacity": 34,
+        "access": "阪急神戸本線，神戸高速線＜東西線＞神戸三宮(阪急)駅西出口より徒歩2分/ＪＲ東海道本線三ノ宮(ＪＲ)駅西口より徒歩5分",
+        "mobile_access": "阪急神戸,神戸高速線神戸三宮阪急駅西出口～徒歩2分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003411476/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/73/06/P041347306/P041347306_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/73/06/P041347306/P041347306_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/73/06/P041347306/P041347306_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/73/06/P041347306/P041347306_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/73/06/P041347306/P041347306_100.jpg"
+          }
+        },
+        "open": "月～日、祝日、祝前日: 17:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "close": "なし",
+        "party_capacity": 30,
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "お通し代として200円(＋税)頂戴しております",
+        "wedding": "要相談",
+        "course": "あり",
+        "free_drink": "なし",
+        "free_food": "なし",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切可 ：25名様以上で貸切OK!！",
+        "parking": "なし ：近隣のコインパーキングをご利用くださいませ",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業している",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れOK",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003411476/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003411476/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J001284475",
+        "name": "力丸 神戸三宮センタープラザ店",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/88/98/P039068898/P039068898_69.jpg",
+        "name_kana": "りきまる　こうべさんのみやせんたーぷらざてん",
+        "address": "兵庫県神戸市中央区三宮町１-9-1 センタープラザ東館047号",
+        "station_name": "旧居留地・大丸前",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6916955271,
+        "lng": 135.1924298109,
+        "genre": {
+          "name": "和食",
+          "catch": "創業45年！老舗回転寿司チェーン店",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B001",
+          "name": "1501～2000円",
+          "average": ""
+        },
+        "catch": "一皿110円(込)～100種以上 お持ち帰りセットメニュー",
+        "capacity": 40,
+        "access": "神戸市営地下鉄海岸線旧居留地・大丸前駅４出口より徒歩約3分",
+        "mobile_access": "神戸市営地下鉄海岸線旧居留地大丸前駅より徒歩約3分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001284475/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/63/07/P038816307/P038816307_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/63/07/P038816307/P038816307_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/63/07/P038816307/P038816307_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/63/07/P038816307/P038816307_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/63/07/P038816307/P038816307_100.jpg"
+          }
+        },
+        "open": "月～日、祝日、祝前日: 11:00～21:00",
+        "close": "なし",
+        "party_capacity": "",
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "",
+        "wedding": "",
+        "free_drink": "なし",
+        "free_food": "なし",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切不可",
+        "parking": "なし",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れ歓迎",
+        "wifi": "未確認",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001284475/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001284475/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J000020566",
+        "name": "和職人が創る海鮮居酒屋 姫すし",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/72/73/P011757273/P011757273_69.jpg",
+        "name_kana": "わしょくにんがつくるかいせんいざかや　ひめすし",
+        "address": "兵庫県神戸市中央区三宮町１－９－１　センタープラザ１F",
+        "station_name": "三ノ宮",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6917010798,
+        "lng": 135.1923309306,
+        "genre": {
+          "name": "和食",
+          "catch": "ランチ＆テイクアウト有！寿司・海鮮料理",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": "昼　900円/夜2999円"
+        },
+        "catch": "日本酒・焼酎も充実！！ 新鮮な海鮮をご用意♪",
+        "capacity": 34,
+        "access": "各線三宮駅スグ　センタープラザ1F",
+        "mobile_access": "各線三宮駅ｽｸﾞ ｾﾝﾀｰﾌﾟﾗｻﾞ1F",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ000020566/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/49/11/P020724911/P020724911_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/49/11/P020724911/P020724911_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/49/11/P020724911/P020724911_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/49/11/P020724911/P020724911_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/49/11/P020724911/P020724911_100.jpg"
+          }
+        },
+        "open": "月～日、祝日、祝前日: 11:30～16:00 （料理L.O. 15:30 ドリンクL.O. 15:30）17:00～22:00 （料理L.O. 21:30 ドリンクL.O. 21:30）",
+        "close": "年中無休",
+        "party_capacity": 34,
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "チャージ料あり　(単品注文時のみ）",
+        "wedding": "",
+        "course": "あり",
+        "free_drink": "あり ：コースに＋1500円で飲み放題付に！！",
+        "free_food": "なし",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "禁煙席なし",
+        "charter": "貸切不可 ：35人",
+        "parking": "なし",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業していない",
+        "english": "あり",
+        "pet": "不可",
+        "child": "お子様連れ歓迎",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ000020566/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ000020566/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J004403400",
+        "name": "ことぶき 神戸三宮2号店",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/06/61/P039310661/P039310661_69.jpg",
+        "name_kana": "かいせんとすしとてんぷら　こしついざかや　おやじのいっぽんづり　こうべさんのみやいくたてん",
+        "address": "兵庫県神戸市中央区北長狭通２－１１－５グランドコーストビル６Ｆ",
+        "station_name": "三宮",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6926120551,
+        "lng": 135.1909343559,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "-三宮で美味い寿司と天ぷらを味わう-",
+          "code": "G001"
+        },
+        "sub_genre": {
+          "name": "和食",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B003",
+          "name": "3001～4000円",
+          "average": "3500円"
+        },
+        "catch": "誕生日や歓送迎会に！ 個室は2名～最大25名様迄",
+        "capacity": 40,
+        "access": "神戸市営 三宮駅より徒歩2分、阪急 神戸三宮駅より徒歩3分",
+        "mobile_access": "阪急 神戸三宮駅より徒歩3分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ004403400/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/25/37/P039392537/P039392537_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/25/37/P039392537/P039392537_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/25/37/P039392537/P039392537_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/25/37/P039392537/P039392537_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/25/37/P039392537/P039392537_100.jpg"
+          }
+        },
+        "open": "月～木: 17:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）金: 17:00～翌3:00 （料理L.O. 翌2:00 ドリンクL.O. 翌2:30）土、祝日、祝前日: 16:00～翌3:00 （料理L.O. 翌2:00 ドリンクL.O. 翌2:30）日: 16:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "close": "不定休",
+        "party_capacity": 52,
+        "other_memo": "※不明点等、お気軽に店舗へご相談下さい",
+        "shop_detail_memo": "各種飲み放題付きコース等をご用意しております。",
+        "budget_memo": "お通し代",
+        "wedding": "各種飲み放題付きコース等をご用意しております。",
+        "course": "あり",
+        "free_drink": "あり",
+        "free_food": "なし ：食べ放題はございません。",
+        "private_room": "あり ：2人可、4人可、6人可、8人可、10～24人可 ",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "禁煙席なし",
+        "charter": "貸切可 ：20人以上",
+        "parking": "なし ：近隣にコインパーキングあり",
+        "barrier_free": "なし ：お店にご相談下さい",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業している",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れ歓迎 ：ご家族でもゆったりお食事可能です！",
+        "wifi": "あり",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ004403400/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ004403400/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J001159966",
+        "name": "地鶏屋 炭鶏 三宮 たんけい",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/79/95/P039897995/P039897995_69.jpg",
+        "name_kana": "じどりや　たんけい　さんのみや",
+        "address": "兵庫県神戸市中央区下山手通２丁目11番1号　KSMビル3階",
+        "station_name": "三ノ宮",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.693308077,
+        "lng": 135.1904952044,
+        "genre": {
+          "name": "和食",
+          "catch": "肉寿司/居酒屋/誕生日/飲み放題/焼鳥/接待",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B004",
+          "name": "5001～7000円",
+          "average": "平均：5000円　宴会：6000円"
+        },
+        "catch": "極上の地鶏を堪能できる！ 新鮮な地鶏をにぎりで！！",
+        "capacity": 25,
+        "access": "各三ノ宮駅から徒歩3分【みやざき地頭鶏・赤玉もみじ鶏・兵庫県産地鶏を使用した絶品地鶏屋】",
+        "mobile_access": "各三ﾉ宮駅から徒歩3分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001159966/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/62/25/P034546225/P034546225_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/62/25/P034546225/P034546225_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/62/25/P034546225/P034546225_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/62/25/P034546225/P034546225_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/62/25/P034546225/P034546225_100.jpg"
+          }
+        },
+        "open": "月～日、祝日、祝前日: 17:00～翌0:00 （料理L.O. 23:30 ドリンクL.O. 23:30）",
+        "close": "1月1日～1月4日お休み",
+        "party_capacity": 25,
+        "other_memo": "各種宴会承ります。また予算に応じてコースをご提供いたします。",
+        "shop_detail_memo": "",
+        "budget_memo": "PayPay利用可/お通し代有り　550円（税込）",
+        "wedding": "お気軽にお店までご相談下さい。",
+        "course": "あり",
+        "free_drink": "あり ：コース利用時のみ",
+        "free_food": "なし ：当店では食べ放題プランはご用意しておりません。",
+        "private_room": "なし ：寛げるテーブル席/カウンター席有り",
+        "horigotatsu": "なし ：寛げるテーブル席/カウンター席有り",
+        "tatami": "なし ：寛げるテーブル席/カウンター席有り",
+        "card": "利用可",
+        "non_smoking": "禁煙席なし",
+        "charter": "貸切可 ：20名～貸切OK！",
+        "parking": "なし ：近くにパーキング有。",
+        "barrier_free": "なし ：お店にご相談下さい。",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業している",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れ歓迎 ：ご家族大歓迎です。",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001159966/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001159966/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J001226352",
+        "name": "肉衛門 NIKU EMON 三宮店",
+        "logo_image": "https://imgfp.hotp.jp/SYS/cmn/images/common/diary/custom/m30_img_noimage.gif",
+        "name_kana": "ぜんせきこしつにくずしやきとりすてーきさんじかんたべのみほうだいにくえもんさんのみやてん",
+        "address": "兵庫県神戸市中央区北長狭通２-11-5 グランドコーストビルB1F",
+        "station_name": "三宮",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.692612607,
+        "lng": 135.1907774253,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "宴会個室◆最大170種！食べ飲みの新名所！",
+          "code": "G001"
+        },
+        "sub_genre": {
+          "name": "ダイニングバー・バル",
+          "code": "G002"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": "通常：3000円　宴会：3500円"
+        },
+        "catch": "OPEN御礼◆3H食べ飲3000円 2名様~OK！扉付き個室♪",
+        "capacity": 150,
+        "access": "神戸サウナより徒歩１分♪たか鳥さんスグ横！　ＪＲ神戸線三ノ宮駅西口 徒歩2分/阪急神戸線神戸三宮駅西出口 徒歩2分",
+        "mobile_access": "神戸ｻｳﾅより徒歩1分♪たか鳥さんｽｸﾞ横!",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001226352/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/16/29/P047981629/P047981629_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/16/29/P047981629/P047981629_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/16/29/P047981629/P047981629_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/16/29/P047981629/P047981629_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/16/29/P047981629/P047981629_100.jpg"
+          }
+        },
+        "open": "月～金: 17:00～23:30 （料理L.O. 22:00 ドリンクL.O. 23:00）土、日、祝日: 12:00～23:30 （料理L.O. 22:00 ドリンクL.O. 23:00）祝前日: 17:00～23:30 （料理L.O. 22:30 ドリンクL.O. 23:00）",
+        "close": "不定休お店の状況により営業時間が変更になる場合があります。予めご了承下さいませ。",
+        "party_capacity": 50,
+        "other_memo": "ご宴会に必要な備品・設備があればご相談ください。貸切予約も◎",
+        "shop_detail_memo": "メッセージプレートご希望時は、予約時フォームのご要望欄へ希望メッセージを記載の上ご予約お願い致します",
+        "budget_memo": "コース予約当日キャンセル：キャンセル料コース代金100％",
+        "wedding": "結婚式の2次会や打ち上げパーティーなどのご利用も大歓迎です。",
+        "course": "あり",
+        "free_drink": "あり ：2時間単品飲み放題980円/飲み放題付きコース2980円～",
+        "free_food": "あり ：【金土祝前】：席のみご予約/フリー来店の方については、当日来店後にて食べ飲み放題のご利用は不可",
+        "private_room": "あり ：2名様～最大50名様まで個室利用可能です！大型宴会・貸切partyに★",
+        "horigotatsu": "なし ：掘りごたつ席はございません。",
+        "tatami": "なし ：お座敷席はございません。",
+        "card": "利用可",
+        "non_smoking": "一部禁煙",
+        "charter": "貸切可 ：最大150名様までOK！",
+        "parking": "なし ：近くにコインパーキングがございます",
+        "barrier_free": "なし ：必要の際はお声かけください",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れ歓迎 ：大歓迎です！ママ会・同窓会はじめお子様連れでもお気軽にご来店下さい♪",
+        "wifi": "あり",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001226352/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001226352/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J003366655",
+        "name": "すし酒場 すさび湯 神戸三宮店",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/03/51/P040610351/P040610351_69.jpg",
+        "name_kana": "すしさかば　すさびゆ　こうべさんのみや",
+        "address": "兵庫県神戸市中央区北長狭通２-2-1",
+        "station_name": "神戸三宮",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6920498956,
+        "lng": 135.1908793797,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "神戸/三宮/寿司/鮨/居酒屋/和食/元町/個室",
+          "code": "G001"
+        },
+        "sub_genre": {
+          "name": "和食",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": "2500円"
+        },
+        "catch": "平日170円！週末200円！ 最大12名様OK！半個室完備",
+        "capacity": 56,
+        "access": "阪急三ノ宮駅から徒歩3分",
+        "mobile_access": "阪急三ﾉ宮駅から徒歩3分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003366655/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/71/98/P043197198/P043197198_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/71/98/P043197198/P043197198_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/71/98/P043197198/P043197198_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/71/98/P043197198/P043197198_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/71/98/P043197198/P043197198_100.jpg"
+          }
+        },
+        "open": "月～木、日、祝日: 11:30～23:00 （料理L.O. 22:30 ドリンクL.O. 22:30）金、土、祝前日: 11:30～翌2:00 （料理L.O. 翌1:00 ドリンクL.O. 翌1:30）",
+        "close": "無し",
+        "party_capacity": 26,
+        "other_memo": "",
+        "shop_detail_memo": "サプライズは応相談",
+        "budget_memo": "お通し396円(税込)/22時以降深夜料金10%",
+        "wedding": "",
+        "course": "あり",
+        "free_drink": "あり ：内容は店舗へご確認ください。",
+        "free_food": "なし",
+        "private_room": "あり ：6名様までご案内可能です。",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切不可 ：※お問い合わせください。",
+        "parking": "なし ：近隣のコインパーキングをご利用くださいませ。",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業している",
+        "english": "あり",
+        "pet": "不可",
+        "child": "お子様連れOK",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003366655/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003366655/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J003941125",
+        "name": "大衆深夜寿司 七結び 神戸三宮",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/14/40/P048461440/P048461440_69.jpg",
+        "name_kana": "たいしゅうしんやすしななむすびこうべさんのみや",
+        "address": "兵庫県神戸市中央区中山手通１丁目14-7　マノスタービル1F",
+        "station_name": "三宮",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.696100284,
+        "lng": 135.1915669605,
+        "genre": {
+          "name": "和食",
+          "catch": "自家製赤酢寿司が1貫100円～楽しめる",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": "1貫100円～"
+        },
+        "catch": "1貫100円～でコスパ◎ 30種類以上のネタを用意♪",
+        "capacity": 20,
+        "access": "神戸市営地下鉄三宮駅より徒歩3分/JR三ノ宮駅、阪急電鉄神戸三宮駅より徒歩4分/阪神電鉄神戸三宮駅より徒歩5分",
+        "mobile_access": "JR三ﾉ宮駅､阪急電鉄神戸三宮駅より徒歩4分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003941125/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/14/06/P048461406/P048461406_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/14/06/P048461406/P048461406_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/14/06/P048461406/P048461406_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/14/06/P048461406/P048461406_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/14/06/P048461406/P048461406_100.jpg"
+          }
+        },
+        "open": "月、火、木～日、祝日、祝前日: 00:00～05:00 （料理L.O. 04:00 ドリンクL.O. 04:30）",
+        "close": "水",
+        "party_capacity": 25,
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "",
+        "wedding": "",
+        "course": "なし",
+        "free_drink": "あり",
+        "free_food": "なし",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用不可",
+        "non_smoking": "禁煙席なし",
+        "charter": "貸切不可",
+        "parking": "なし",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れ不可",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003941125/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003941125/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J004025566",
+        "name": "ながり鮨 錬 Ren",
+        "logo_image": "https://imgfp.hotp.jp/SYS/cmn/images/common/diary/custom/m30_img_noimage.gif",
+        "name_kana": "ながりずしれん",
+        "address": "兵庫県神戸市中央区北長狭通２丁目９-６　好大ビル2階",
+        "station_name": "三宮",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6925820441,
+        "lng": 135.1903038568,
+        "genre": {
+          "name": "和食",
+          "catch": "本店の味に鍛錬を重ねた、さらに旨い鮨を。",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B012",
+          "name": "15001～20000円",
+          "average": "ディナー18000円　ランチ9000円"
+        },
+        "catch": "寿司×日本酒",
+        "capacity": 15,
+        "access": "阪急線・阪神線「神戸三宮駅」徒歩6分/JR神戸線「三ノ宮駅」「元町駅」徒歩6分/神戸市営地下鉄「三宮駅」徒歩3分",
+        "mobile_access": "各線三宮駅徒歩6分/JR神戸線｢元町駅｣徒歩6分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ004025566/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/69/66/P046646966/P046646966_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/69/66/P046646966/P046646966_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/69/66/P046646966/P046646966_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/69/66/P046646966/P046646966_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/69/66/P046646966/P046646966_100.jpg"
+          }
+        },
+        "open": "月、火、木～日: 12:00～14:00 （料理L.O. 13:00）18:00～22:00 （料理L.O. 20:30）",
+        "close": "水",
+        "party_capacity": 15,
+        "other_memo": "",
+        "shop_detail_memo": "お祝い・サプライズ対応：相談に応じます。",
+        "budget_memo": "",
+        "wedding": "",
+        "course": "あり",
+        "free_drink": "なし",
+        "free_food": "なし",
+        "private_room": "あり ：最大6名対応の完全個室 ",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切可",
+        "parking": "なし ：近隣にコインパーキングあり",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れOK ：お子様のご来店は可能ですが 個室希望やお子様メニューなどのご相談は直接ご連絡をお願いいたします ",
+        "wifi": "あり",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ004025566/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ004025566/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J003323720",
+        "name": "旨い酒寿し あおやま",
+        "logo_image": "https://imgfp.hotp.jp/SYS/cmn/images/common/diary/custom/m30_img_noimage.gif",
+        "name_kana": "うまいさけすしあおやま",
+        "address": "兵庫県神戸市中央区中山手通１丁目13-14",
+        "station_name": "三宮",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "XF2C",
+          "name": "北野坂周辺"
+        },
+        "lat": 34.6964246971,
+        "lng": 135.1918083173,
+        "genre": {
+          "name": "和食",
+          "catch": "【三宮駅近】季節の味を愉しむ寿司居酒屋",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B004",
+          "name": "5001～7000円",
+          "average": "宴会平均7500円"
+        },
+        "catch": "天然魚介をリーズナブルに 旨い酒とともに…",
+        "capacity": 16,
+        "access": "神戸市営地下鉄西神・山手線三宮(神戸市営)駅東出口８より徒歩約5分",
+        "mobile_access": "<神戸市営地下鉄>三宮駅東出口8より徒歩約5分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003323720/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/53/05/P040355305/P040355305_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/53/05/P040355305/P040355305_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/53/05/P040355305/P040355305_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/53/05/P040355305/P040355305_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/53/05/P040355305/P040355305_100.jpg"
+          }
+        },
+        "open": "月～土: 17:00～23:00 （料理L.O. 22:30 ドリンクL.O. 22:30）",
+        "close": "日、祝日",
+        "party_capacity": 16,
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "お通し代はございません。",
+        "wedding": "",
+        "course": "あり",
+        "free_drink": "なし",
+        "free_food": "なし",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切可 ：店舗までご相談ください。",
+        "parking": "なし",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れOK",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003323720/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003323720/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J000481890",
+        "name": "うを勢 総本店",
+        "logo_image": "https://imgfp.hotp.jp/SYS/cmn/images/common/diary/custom/m30_img_noimage.gif",
+        "name_kana": "うをせい　そうほんてん",
+        "address": "兵庫県神戸市中央区北長狭通２‐８‐３　アルカザールビル１Ｆ",
+        "station_name": "三ノ宮",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6922037534,
+        "lng": 135.1902866488,
+        "genre": {
+          "name": "和食",
+          "catch": "新鮮素材寿司",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B003",
+          "name": "3001～4000円",
+          "average": "3000円（通常平均）2000円（宴会平均）1000円（ランチ平均）　"
+        },
+        "catch": "",
+        "capacity": 53,
+        "access": "JR神戸線三ノ宮駅西口徒歩5分/JR神戸線元町駅徒歩5分/阪急神戸線三宮駅徒歩3分/阪神本線三宮駅徒歩10分",
+        "mobile_access": "JR神戸線三ﾉ宮駅西口徒歩5分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ000481890/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/52/61/P012255261/P012255261_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/52/61/P012255261/P012255261_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/52/61/P012255261/P012255261_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/52/61/P012255261/P012255261_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/52/61/P012255261/P012255261_100.jpg"
+          }
+        },
+        "open": "火～日、祝日、祝前日: 11:30～14:0016:30～21:30",
+        "close": "月",
+        "party_capacity": 20,
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "",
+        "wedding": "",
+        "course": "あり",
+        "free_drink": "なし",
+        "free_food": "なし",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用不可",
+        "non_smoking": "一部禁煙",
+        "charter": "貸切不可",
+        "parking": "なし",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "あり",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業していない",
+        "english": "あり",
+        "pet": "不可",
+        "child": "お子様連れOK",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ000481890/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ000481890/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J002647786",
+        "name": "鮨　寿樂",
+        "logo_image": "https://imgfp.hotp.jp/SYS/cmn/images/common/diary/custom/m30_img_noimage.gif",
+        "name_kana": "すし　じゅらく",
+        "address": "兵庫県神戸市中央区下山手通２-16-2 サンビル202",
+        "station_name": "三宮",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "XF2D",
+          "name": "トアロード周辺"
+        },
+        "lat": 34.6940332542,
+        "lng": 135.1897088602,
+        "genre": {
+          "name": "和食",
+          "catch": "目と舌で楽しむ美麗な寿司が自慢◇",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B012",
+          "name": "15001～20000円",
+          "average": "ランチ　5500円　ディナー　20000円"
+        },
+        "catch": "様々なシーンでご利用◎ おまかせコースで頂く。",
+        "capacity": 24,
+        "access": "地下鉄三宮駅より徒歩約4分/阪急神戸三宮駅より徒歩約7分/ＪＲ元町駅より徒歩約10分",
+        "mobile_access": "地下鉄三宮より徒歩約4分/阪急三宮より徒歩約7分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ002647786/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/34/40/P041033440/P041033440_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/34/40/P041033440/P041033440_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/34/40/P041033440/P041033440_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/34/40/P041033440/P041033440_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/34/40/P041033440/P041033440_100.jpg"
+          }
+        },
+        "open": "火: 18:00～22:00水～日、祝日: 11:30～14:0018:00～22:00",
+        "close": "月",
+        "party_capacity": 10,
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "チャージ料はございません。",
+        "wedding": "ご相談ください",
+        "course": "あり",
+        "free_drink": "なし",
+        "free_food": "なし",
+        "private_room": "あり",
+        "horigotatsu": "なし",
+        "tatami": "あり",
+        "card": "利用可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切可",
+        "parking": "なし ：近隣のコインパーキングをご利用ください。",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業していない",
+        "english": "あり",
+        "pet": "不可",
+        "child": "お子様連れOK ：個室のご利用であれば可能",
+        "wifi": "あり",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ002647786/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ002647786/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J001283784",
+        "name": "鮨マニシ",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/85/07/P038748507/P038748507_69.jpg",
+        "name_kana": "すしまにし",
+        "address": "兵庫県神戸市中央区北長狭通２－５－１２ミズキビル１階",
+        "station_name": "三宮",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6918854463,
+        "lng": 135.1898553086,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "三ノ宮/神戸/鍋/歓送迎会/ふぐ/海鮮/寿司",
+          "code": "G001"
+        },
+        "sub_genre": {
+          "name": "和食",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B008",
+          "name": "4001～5000円",
+          "average": "4,000円～"
+        },
+        "catch": "ランチメニューが深夜にも 本格にぎりをご提供♪",
+        "capacity": 43,
+        "access": "神戸三宮駅徒歩3分",
+        "mobile_access": "神戸三宮駅徒歩3分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001283784/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/77/32/P043947732/P043947732_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/77/32/P043947732/P043947732_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/77/32/P043947732/P043947732_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/77/32/P043947732/P043947732_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/77/32/P043947732/P043947732_100.jpg"
+          }
+        },
+        "open": "月～木: 11:30～14:30 （料理L.O. 14:00 ドリンクL.O. 14:00）17:00～23:30 （料理L.O. 22:30 ドリンクL.O. 23:00）金: 11:30～14:30 （料理L.O. 14:00 ドリンクL.O. 14:00）17:00～翌4:00 （料理L.O. 翌3:00 ドリンクL.O. 翌3:30）土: 12:00～翌4:00 （料理L.O. 翌3:00 ドリンクL.O. 翌3:30）日、祝日: 12:00～23:30 （料理L.O. 22:30 ドリンクL.O. 23:00）",
+        "close": "不定休になります。事前にご予約頂くと安心です。",
+        "party_capacity": 18,
+        "other_memo": "お気軽にご相談下さい。",
+        "shop_detail_memo": "お気軽にご相談下さい。",
+        "budget_memo": "チャージ代、お通し代はございません。",
+        "wedding": "お気軽にご相談下さい。",
+        "course": "あり",
+        "free_drink": "なし ：申し訳ございません。ご用意がございません。",
+        "free_food": "なし ：申し訳ございません。ご用意がございません。",
+        "private_room": "なし ：申し訳ございません。ご用意がございません。",
+        "horigotatsu": "なし ：申し訳ございません。ご用意がございません。",
+        "tatami": "なし ：申し訳ございません。ご用意がございません。",
+        "card": "利用可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切不可 ：お気軽にご相談下さい。",
+        "parking": "なし ：申し訳ございません。ご用意がございません。",
+        "barrier_free": "なし ：お手伝いいたします。",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業している",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れOK ：お気軽にお越しください",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001283784/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001283784/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J000481446",
+        "name": "好富",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/60/13/P010556013/P010556013_69.jpg",
+        "name_kana": "よしとみ",
+        "address": "兵庫県神戸市中央区御幸通６－１－１２　三宮ビル東館B１",
+        "station_name": "三ノ宮",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6929541102,
+        "lng": 135.1974337731,
+        "genre": {
+          "name": "和食",
+          "catch": "活魚　寿司　割烹",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B004",
+          "name": "5001～7000円",
+          "average": "通常5000円、宴会5000円、ランチ700円"
+        },
+        "catch": "●明石昼網の鮮魚 ●飲み放題付5000円",
+        "capacity": 37,
+        "access": "ＪＲ三宮駅東口から磯上公園方面に徒歩７分。三宮ビル東館という看板が目印。",
+        "mobile_access": "JR三宮駅東口から南に向かって徒歩7分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ000481446/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/94/16/P011839416/P011839416_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/94/16/P011839416/P011839416_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/94/16/P011839416/P011839416_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/94/16/P011839416/P011839416_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/94/16/P011839416/P011839416_100.jpg"
+          }
+        },
+        "open": "月～土、祝前日: 11:30～13:3017:00～21:30",
+        "close": "日、祝日",
+        "party_capacity": 37,
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "お通し代あり",
+        "wedding": "お気軽にお問合せ下さい",
+        "course": "あり",
+        "free_drink": "あり ：＋2000円で飲み放題あり（90分L.O.、お席は2ｈ）",
+        "free_food": "なし",
+        "private_room": "なし ：7名・10名・10名の3個室あり。3～MAX30名様まで収容できます。",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "禁煙席なし",
+        "charter": "貸切不可 ：30人前後～要相談",
+        "parking": "なし",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れOK",
+        "wifi": "未確認",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ000481446/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ000481446/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J004025589",
+        "name": "ながり鮨",
+        "logo_image": "https://imgfp.hotp.jp/SYS/cmn/images/common/diary/custom/m30_img_noimage.gif",
+        "name_kana": "ながりずし",
+        "address": "兵庫県神戸市中央区中山手通２丁目10-22 ハンター坂ヴィレッジゲート 1F",
+        "station_name": "三宮",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "XF02",
+          "name": "神戸北野"
+        },
+        "lat": 34.6964907717,
+        "lng": 135.190549259,
+        "genre": {
+          "name": "和食",
+          "catch": "職人歴23年の職人が握る、絶品の握り寿司",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B006",
+          "name": "10001～15000円",
+          "average": "ディナー10000～12000円　ランチ5000～7000円"
+        },
+        "catch": "ご家族連れも歓迎です 食材にこだわります",
+        "capacity": 18,
+        "access": "ＪＲ神戸線 三ノ宮駅 徒歩12分・阪急 神戸三宮駅 徒歩10分三宮駅（神戸市営）から325m",
+        "mobile_access": "各線三ﾉ宮駅から徒歩10分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ004025589/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/99/96/P046509996/P046509996_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/99/96/P046509996/P046509996_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/99/96/P046509996/P046509996_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/99/96/P046509996/P046509996_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/99/96/P046509996/P046509996_100.jpg"
+          }
+        },
+        "open": "月、火、木～日、祝日、祝前日: 12:00～14:00 （料理L.O. 13:30）18:00～22:00 （料理L.O. 21:30）",
+        "close": "水",
+        "party_capacity": 18,
+        "other_memo": "",
+        "shop_detail_memo": "お祝い・サプライズ対応：相談に応じます",
+        "budget_memo": "",
+        "wedding": "",
+        "course": "あり",
+        "free_drink": "あり",
+        "free_food": "なし",
+        "private_room": "あり ：最大6名対応の完全個室",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切可",
+        "parking": "なし ：近隣にコインパーキングあり",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れOK ：お子様のご来店は可能ですが 個室希望やお子様メニューなどのご相談は直接ご連絡をお願いいたします",
+        "wifi": "あり",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ004025589/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ004025589/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J004025772",
+        "name": "ちらし 寿司 大槻",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/88/31/P046518831/P046518831_69.jpg",
+        "name_kana": "ちらし　ずし　おおつき",
+        "address": "兵庫県神戸市中央区中山手通２丁目１０－２２ 伸野ビル １F",
+        "station_name": "三宮",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "XF2D",
+          "name": "トアロード周辺"
+        },
+        "lat": 34.6964946604,
+        "lng": 135.1905584248,
+        "genre": {
+          "name": "和食",
+          "catch": "ちらし寿司や旬のお料理が楽しめるお店♪",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": ""
+        },
+        "catch": "",
+        "capacity": 10,
+        "access": "三宮駅から徒歩8分",
+        "mobile_access": "三宮駅から徒歩8分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ004025772/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/98/66/P046649866/P046649866_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/98/66/P046649866/P046649866_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/98/66/P046649866/P046649866_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/98/66/P046649866/P046649866_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/98/66/P046649866/P046649866_100.jpg"
+          }
+        },
+        "open": "月～日、祝日、祝前日: 11:30～14:0017:30～23:00",
+        "close": "水曜日は隔週定休となります。臨時休業有。その場合はSNS(インスタグラム等)でお知らせします。",
+        "party_capacity": "",
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "",
+        "wedding": "",
+        "course": "なし",
+        "free_drink": "なし",
+        "free_food": "なし",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用不可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切可",
+        "parking": "なし",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "あり",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れOK",
+        "wifi": "未確認",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ004025772/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ004025772/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J001238445",
+        "name": "ポルコーベ PorKobe 三宮店",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/60/38/P035026038/P035026038_69.jpg",
+        "name_kana": "ぽるこーべ　ポルコーベ　さんのみやてん",
+        "address": "兵庫県神戸市中央区北長狭通２-5-5",
+        "station_name": "元町",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6915460436,
+        "lng": 135.1899903082,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "肉寿司 肉バル 誕生日 食べ放題 チーズ",
+          "code": "G001"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": "3000円【ご予算にあったコースもお作りできます♪】"
+        },
+        "catch": "感染症対策 新定番！絶品神戸ポーク",
+        "capacity": 48,
+        "access": "三宮駅・元町駅より徒歩3分/トアロードとサンセット通りの交差点に不動産屋があります。その東隣にあります。",
+        "mobile_access": "三宮駅山側を西に徒歩3分･元町駅山側を東に徒歩3分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001238445/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/69/37/P036836937/P036836937_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/69/37/P036836937/P036836937_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/69/37/P036836937/P036836937_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/69/37/P036836937/P036836937_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/69/37/P036836937/P036836937_100.jpg"
+          }
+        },
+        "open": "月～日、祝日、祝前日: 14:00～20:00 （料理L.O. 19:30 ドリンクL.O. 19:00）",
+        "close": "無休 Instagram→@porkobe0601【時間外営業も受付中】【お電話つながりにくい場合は、078-392-7274におかけ下さい】",
+        "party_capacity": 60,
+        "other_memo": "プロジェクター、モニター、カラオケ、各種パーティーグッズなど設備充実です☆",
+        "shop_detail_memo": "Instagram【@porkobe0601】",
+        "budget_memo": "お通し代:350円 電子マネー可(Pay Pay)",
+        "wedding": "ムービー作成も無料♪音響や映像の設備も充実★思い出に残る演出！",
+        "course": "あり",
+        "free_drink": "あり ：単品飲み放題も有",
+        "free_food": "あり ：☆全100種の食べ飲み放題コース有り♪",
+        "private_room": "あり ：※20名様以上の貸切時に限り",
+        "horigotatsu": "なし ：寛げるソファ席有り",
+        "tatami": "なし ：寛げるソファ席有り",
+        "card": "利用可",
+        "non_smoking": "禁煙席なし",
+        "charter": "貸切可 ：20名様以上で地下個室を貸切対応します。",
+        "parking": "なし ：近くに有料コインパーキング有！是非、そちらをご利用いただけましたら幸いです。",
+        "barrier_free": "なし ：大変申し訳ございませんが、特にご用意がございません。",
+        "show": "なし",
+        "karaoke": "あり",
+        "band": "不可",
+        "tv": "あり",
+        "lunch": "なし",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れOK",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001238445/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001238445/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J001260944",
+        "name": "立ち飲み寿司 まかないや",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/15/89/P040101589/P040101589_69.jpg",
+        "name_kana": "たちのみずし　まかないや",
+        "address": "兵庫県神戸市中央区北長狭通３丁目1-1",
+        "station_name": "神戸三宮",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.691298564,
+        "lng": 135.1896539572,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "サク飲み/海鮮/隠れ家/個室/三宮/貸切",
+          "code": "G001"
+        },
+        "budget": {
+          "code": "B008",
+          "name": "4001～5000円",
+          "average": "ディナー飲み放題付5000円のコースをご用意しております。"
+        },
+        "catch": "こだわりの鮮魚のみ使用 種類豊富！飲み放題プラン",
+        "capacity": 16,
+        "access": "各線三ノ宮/元町駅から徒歩５分【サンキタ通りとトアロードの交差点】",
+        "mobile_access": "各線三ﾉ宮/元町駅から徒歩5分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001260944/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/13/82/P044131382/P044131382_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/13/82/P044131382/P044131382_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/13/82/P044131382/P044131382_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/13/82/P044131382/P044131382_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/13/82/P044131382/P044131382_100.jpg"
+          }
+        },
+        "open": "月、水～日、祝日、祝前日: 16:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:00）",
+        "close": "火",
+        "party_capacity": 18,
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "",
+        "wedding": "",
+        "course": "あり",
+        "free_drink": "あり",
+        "free_food": "なし",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "禁煙席なし",
+        "charter": "貸切不可",
+        "parking": "なし",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "あり",
+        "lunch": "あり",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れ歓迎",
+        "wifi": "あり",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001260944/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001260944/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J004492759",
+        "name": "鮨 酒 肴 杉玉 神戸元町",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/68/00/P036286800/P036286800_69.jpg",
+        "name_kana": "すしさけさかなすぎだまこうべもとまち",
+        "address": "兵庫県神戸市中央区元町通１丁目11-20 サクセス元町ビル2F",
+        "station_name": "元町",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "XF01",
+          "name": "元町"
+        },
+        "lat": 34.6893773831,
+        "lng": 135.1891943401,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "安くて旨い！こだわり大衆寿司居酒屋◇",
+          "code": "G001"
+        },
+        "sub_genre": {
+          "name": "和食",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": "ランチ1001～1500円/ディナー2001～3000円"
+        },
+        "catch": "こだわりのお寿司 酒に合う肴もどうぞ",
+        "capacity": 74,
+        "access": "JR東海道本線元町駅東口(阪神元町駅側)より徒歩約3分/阪神本線.,神戸高速線<東西線>元町(阪神)駅東出口より徒歩約3分",
+        "mobile_access": "JR東海道本線元町駅東口(阪神元町駅側)より徒歩約3分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ004492759/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/69/90/P047536990/P047536990_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/69/90/P047536990/P047536990_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/69/90/P047536990/P047536990_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/69/90/P047536990/P047536990_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/69/90/P047536990/P047536990_100.jpg"
+          }
+        },
+        "open": "月～金、祝前日: 11:00～14:30 （料理L.O. 14:00 ドリンクL.O. 14:00）17:00～23:00 （料理L.O. 22:30 ドリンクL.O. 22:30）土、日、祝日: 11:00～14:30 （料理L.O. 14:00 ドリンクL.O. 14:00）16:00～23:00 （料理L.O. 22:30 ドリンクL.O. 22:30）",
+        "close": "なし",
+        "party_capacity": 22,
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "",
+        "wedding": "",
+        "course": "あり",
+        "free_drink": "なし",
+        "free_food": "なし",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "一部禁煙",
+        "charter": "貸切不可",
+        "parking": "なし",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れ歓迎",
+        "wifi": "未確認",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ004492759/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ004492759/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J001292649",
+        "name": "一口いなりむろや 大丸神戸店",
+        "logo_image": "https://imgfp.hotp.jp/SYS/cmn/images/common/diary/custom/m30_img_noimage.gif",
+        "name_kana": "ひとくちいなりむろやだいまるこうべてん",
+        "address": "兵庫県神戸市中央区明石町40　大丸神戸店地下1階",
+        "station_name": "旧居留地・大丸前",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "XF0C",
+          "name": "旧居留地"
+        },
+        "lat": 34.6886899802,
+        "lng": 135.1900198463,
+        "genre": {
+          "name": "和食",
+          "catch": "関西・九州で店舗展開中のいなり寿司専門店",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B011",
+          "name": "1001～1500円",
+          "average": ""
+        },
+        "catch": "",
+        "capacity": "",
+        "access": "旧居留地・大丸前駅１出口より徒歩約0分/元町(ＪＲ)駅東口(阪神元町駅側)より徒歩約5分",
+        "mobile_access": "旧居留地･大丸前駅1出口より徒歩約0分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001292649/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/33/39/P039053339/P039053339_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/33/39/P039053339/P039053339_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/33/39/P039053339/P039053339_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/33/39/P039053339/P039053339_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/33/39/P039053339/P039053339_100.jpg"
+          }
+        },
+        "open": "月～日、祝日、祝前日: 10:00～20:00",
+        "close": "大丸神戸店の定休日に準ずる",
+        "party_capacity": "",
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "",
+        "wedding": "",
+        "course": "あり",
+        "free_drink": "なし",
+        "free_food": "なし",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切不可",
+        "parking": "なし",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れOK",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001292649/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001292649/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J003829860",
+        "name": "安さん 大丸店",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/24/98/P045342498/P045342498_69.jpg",
+        "name_kana": "やっさん　だいまるてん",
+        "address": "兵庫県神戸市中央区明石町40　大丸神戸店9F",
+        "station_name": "旧居留地・大丸前",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6886899802,
+        "lng": 135.1900198463,
+        "genre": {
+          "name": "和食",
+          "catch": "新鮮な海の幸をお寿司や一品料理で味わえる",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": "ランチ1700円/ディナー3000円"
+        },
+        "catch": "旬の食材を活かした昼膳 漁港からの新鮮な食材♪",
+        "capacity": 37,
+        "access": "JR元町駅徒歩5分・旧居留地・大丸前駅徒歩1分",
+        "mobile_access": "JR元町駅徒歩5分･旧居留地･大丸前駅徒歩1分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003829860/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/24/99/P045342499/P045342499_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/24/99/P045342499/P045342499_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/24/99/P045342499/P045342499_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/24/99/P045342499/P045342499_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/24/99/P045342499/P045342499_100.jpg"
+          }
+        },
+        "open": "月～日、祝日、祝前日: 11:00～21:00 （料理L.O. 20:30 ドリンクL.O. 20:30）",
+        "close": "不定休（大丸に準ずる）",
+        "party_capacity": 37,
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "",
+        "wedding": "",
+        "course": "あり",
+        "free_drink": "なし",
+        "free_food": "なし",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切可",
+        "parking": "あり ：大丸内に駐車場あり、大丸で5,000円以上お会計の方は2時間無料",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れOK ：（乳児可、未就学児可、小学生可）",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003829860/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003829860/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J001281951",
+        "name": "肉寿司 食べ放題 一休",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/30/33/P036403033/P036403033_69.jpg",
+        "name_kana": "にくずしたべほうだいいっきゅう",
+        "address": "兵庫県神戸市中央区北長狭通１丁目9-11",
+        "station_name": "元町",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6900716817,
+        "lng": 135.1862890165,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "三宮 個室 居酒屋 食べ放題 飲み放題 宴会",
+          "code": "G001"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": "3000円　『炙り肉寿司食べ放題』が期間限定1680円"
+        },
+        "catch": "旨味を凝縮した炙り肉寿司 2～40名様まで★個室多数",
+        "capacity": 70,
+        "access": "各線三宮駅より徒歩3分以内。地下鉄山手線三宮駅西出口からは徒歩1分。生田ロード沿いの東側ビルの3階。",
+        "mobile_access": "各線三宮駅より徒歩3分以内｡生田ﾛｰﾄﾞ沿い東側｡",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001281951/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/28/77/P036402877/P036402877_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/28/77/P036402877/P036402877_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/28/77/P036402877/P036402877_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/28/77/P036402877/P036402877_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/28/77/P036402877/P036402877_100.jpg"
+          }
+        },
+        "open": "月～日、祝日、祝前日: 17:00～23:00 （料理L.O. 22:00 ドリンクL.O. 22:30）",
+        "close": "★深夜まで営業中★",
+        "party_capacity": 70,
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "チャージあり(コースの場合はチャージ料なし)",
+        "wedding": "貸切、営業時間外でのご利用、婚活PARTYや各種PARTY等、お気軽にお問い合わせ下さい。",
+        "course": "あり",
+        "free_drink": "あり ：全コースに3時間飲み放題付き！約70種類のドリンクをご用意♪",
+        "free_food": "あり ：『炙り肉寿司食べ放題』が期間限定1680円！思い切り食べて飲んで盛り上がってください♪",
+        "private_room": "あり ：記念日や合コンのも使える完全個室席ございます♪三宮での特別な夜にぜひ！",
+        "horigotatsu": "あり ：団体様に大人気！足を伸ばして寛げる４０名様まで収容可能な団体広間ございます！",
+        "tatami": "あり ：広々ご利用頂ける掘りごたつタイプのお座敷席をご用意しております。",
+        "card": "利用可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切可 ：各種ご宴会、二次会等、お気軽にお問合せください。",
+        "parking": "なし ：お近くにコインパーキングがございます。各種ご宴会、二次会等、お気軽にお問合せください",
+        "barrier_free": "なし ：店内は広い通路と大きな段差はございません。不便な際はスタッフがお手伝い致します。",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れ歓迎 ：団体様に大人気！足を伸ばして寛げる団体広間ございます！！",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001281951/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001281951/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J003624210",
+        "name": "栄寿司",
+        "logo_image": "https://imgfp.hotp.jp/SYS/cmn/images/common/diary/custom/m30_img_noimage.gif",
+        "name_kana": "さかえすし",
+        "address": "兵庫県神戸市中央区二宮町１‐14‐20　アダチマンション",
+        "station_name": "新神戸",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "XF03",
+          "name": "新神戸"
+        },
+        "lat": 34.7010623585,
+        "lng": 135.1976059846,
+        "genre": {
+          "name": "和食",
+          "catch": "昔ながらの町のお寿司屋さん",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B003",
+          "name": "3001～4000円",
+          "average": ""
+        },
+        "catch": "",
+        "capacity": 16,
+        "access": "新神戸駅南出口より徒歩約9分/神戸新交通ポートライナー三宮駅東方面出口より徒歩約15分",
+        "mobile_access": "新神戸駅南出口より徒歩約9分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003624210/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/08/87/P042330887/P042330887_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/08/87/P042330887/P042330887_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/08/87/P042330887/P042330887_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/08/87/P042330887/P042330887_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/08/87/P042330887/P042330887_100.jpg"
+          }
+        },
+        "open": "月、水～日、祝日、祝前日: 11:00～14:00 （料理L.O. 13:30 ドリンクL.O. 13:30）16:30～23:00 （料理L.O. 22:30 ドリンクL.O. 22:30）",
+        "close": "火",
+        "party_capacity": "",
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "",
+        "wedding": "",
+        "course": "なし",
+        "free_drink": "なし",
+        "free_food": "なし",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用不可",
+        "non_smoking": "禁煙席なし",
+        "charter": "貸切不可",
+        "parking": "なし",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れ歓迎",
+        "wifi": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003624210/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003624210/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J004444063",
+        "name": "神戸元町すしきち",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/40/34/P048234034/P048234034_69.jpg",
+        "name_kana": "こうべもとまちすしきち",
+        "address": "兵庫県神戸市中央区元町通３丁目2-17　1F",
+        "station_name": "元町",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "XF01",
+          "name": "元町"
+        },
+        "lat": 34.6879480383,
+        "lng": 135.1864582399,
+        "genre": {
+          "name": "和食",
+          "catch": "元町駅徒歩3分 デカ盛り寿司と日本酒のお店",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": "2000円～3000円"
+        },
+        "catch": "デカ盛り寿司で驚きと笑顔 純米酒中心に約26種の銘柄",
+        "capacity": 24,
+        "access": "阪神本線 神戸高速線＜東西線＞元町(阪神)駅西出口より徒歩約3分/ＪＲ東海道本線元町駅西口(阪神元町駅側)より徒歩約3分",
+        "mobile_access": "阪神本線 神戸高速線 元町(阪神)駅西出口 徒歩約3分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ004444063/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/40/39/P048234039/P048234039_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/40/39/P048234039/P048234039_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/40/39/P048234039/P048234039_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/40/39/P048234039/P048234039_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/40/39/P048234039/P048234039_100.jpg"
+          }
+        },
+        "open": "月～日、祝日、祝前日: 11:30～15:00 （料理L.O. 14:30 ドリンクL.O. 14:30）17:30～21:00 （料理L.O. 20:30 ドリンクL.O. 20:30）",
+        "close": "なし",
+        "party_capacity": 24,
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "",
+        "wedding": "",
+        "course": "あり",
+        "free_drink": "なし",
+        "free_food": "なし",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切不可",
+        "parking": "なし ：近くにコインパーキング有",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れOK ：お子様メニューあり",
+        "wifi": "未確認",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ004444063/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ004444063/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J003559809",
+        "name": "韓国料理 HARU",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/52/82/P042015282/P042015282_69.jpg",
+        "name_kana": "かんこくりょうり　はる　カンコクリョウリ　ハル",
+        "address": "兵庫県神戸市中央区栄町通２丁目１０－３　アミーゴスビル北２F",
+        "station_name": "元町",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "X440",
+          "name": "三宮"
+        },
+        "lat": 34.6875308718,
+        "lng": 135.1868193333,
+        "genre": {
+          "name": "韓国料理",
+          "catch": "元寿司職人が手がける本場以上の韓国料理",
+          "code": "G017"
+        },
+        "sub_genre": {
+          "name": "居酒屋",
+          "code": "G001"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": "ランチ1600円(税込)～/ディナー2500円(税込)～"
+        },
+        "catch": "体の芯からあたたまる♪ ボリューム抜群◎",
+        "capacity": 26,
+        "access": "元町(ＪＲ)駅西口(阪神元町駅側)より徒歩約4分/元町(阪神)駅西出口より徒歩約4分/三宮(阪急)駅HW2出口より徒歩約15分",
+        "mobile_access": "元町(JR)駅西口(阪神元町駅側)より徒歩約4分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003559809/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/83/81/P047528381/P047528381_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/83/81/P047528381/P047528381_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/83/81/P047528381/P047528381_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/83/81/P047528381/P047528381_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/83/81/P047528381/P047528381_100.jpg"
+          }
+        },
+        "open": "火～日、祝前日: 11:30～15:00 （料理L.O. 14:00 ドリンクL.O. 14:00）18:00～22:00 （料理L.O. 20:30 ドリンクL.O. 20:30）",
+        "close": "月",
+        "party_capacity": 26,
+        "other_memo": "",
+        "shop_detail_memo": "※席タイプを選択いただいても混雑状況によってはご希望に添えない場合がございます。",
+        "budget_memo": "無し",
+        "wedding": "",
+        "course": "あり",
+        "free_drink": "あり",
+        "free_food": "なし",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "あり",
+        "card": "利用不可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切可",
+        "parking": "なし",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れ歓迎",
+        "wifi": "あり",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003559809/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003559809/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J000020339",
+        "name": "料亭旅館 豊福 神戸",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/59/94/P041005994/P041005994_69.jpg",
+        "name_kana": "りょうてい　りょかん　とよふく",
+        "address": "兵庫県神戸市中央区花隈町２３－１８",
+        "station_name": "花隈",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "XF01",
+          "name": "元町"
+        },
+        "lat": 34.6876290537,
+        "lng": 135.1807181996,
+        "genre": {
+          "name": "和食",
+          "catch": "料亭旅館　個室　記念日　コース料理　寿司",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B004",
+          "name": "5001～7000円",
+          "average": "通常平均5000円 /宴会平均8000円 /ランチ平均1000円"
+        },
+        "catch": "2～60名様までの完全個室 11時～14時でランチタイム",
+        "capacity": 94,
+        "access": "元町駅徒歩10分/阪急花隈駅北徒歩3分【元町/花隈/料亭旅館/個室/和食/鍋/寿司/神戸牛/飲み放題/ランチ/接待/宴会】",
+        "mobile_access": "元町駅徒歩10分/阪急花隈駅北徒歩3分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ000020339/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/15/34/P040931534/P040931534_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/15/34/P040931534/P040931534_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/15/34/P040931534/P040931534_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/15/34/P040931534/P040931534_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/15/34/P040931534/P040931534_100.jpg"
+          }
+        },
+        "open": "月～水、金、土、祝前日: 11:00～14:00 （料理L.O. 14:00 ドリンクL.O. 14:00）17:00～21:00 （料理L.O. 21:00 ドリンクL.O. 21:00）木: 11:00～14:00 （料理L.O. 14:00 ドリンクL.O. 14:00）日、祝日: 11:00～21:00 （料理L.O. 21:00 ドリンクL.O. 21:00）",
+        "close": "定休日はありません。年末年始は完全予約制です。ご不明な点などがあれば、お気軽にお問合せください。",
+        "party_capacity": 60,
+        "other_memo": "麻雀卓/ちゃんちゃんこ・大杯の貸し出し/予算・要望に合わせたコース料理の作成",
+        "shop_detail_memo": "ポイント利用のお客様は店内飲食のみでお願いします。テイクアウトはポイント利用に対応していません。",
+        "budget_memo": "個室利用時には料理料金＋サービス料（15％）を別途いただきます",
+        "wedding": "料亭旅館のため宿泊も可能です。コース注文の方はお安くさせて頂いています。",
+        "course": "あり",
+        "free_drink": "あり ：＋1650円で2時間（LO15分前）",
+        "free_food": "なし",
+        "private_room": "あり ：60人宴会室、25人×2室、2～10人×3室、～6人×2室",
+        "horigotatsu": "あり ：4人掛けの掘りごたつご用意しています",
+        "tatami": "あり ：宴会や法事にご利用頂ます／畳の部屋にテーブルと椅子を配置したスタイルです。",
+        "card": "利用可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切不可 ：個室・座敷の貸切あり。お気軽にご相談ください",
+        "parking": "なし ：※近隣にコインパーキングがございます",
+        "barrier_free": "あり ：エレベーターあり",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れOK",
+        "wifi": "あり",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ000020339/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ000020339/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J001286910",
+        "name": "すし 新高",
+        "logo_image": "https://imgfp.hotp.jp/SYS/cmn/images/common/diary/custom/m30_img_noimage.gif",
+        "name_kana": "すし　しんこう",
+        "address": "兵庫県神戸市中央区元町通５-4-1",
+        "station_name": "みなと元町",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "XF01",
+          "name": "元町"
+        },
+        "lat": 34.6854632268,
+        "lng": 135.1823622947,
+        "genre": {
+          "name": "和食",
+          "catch": "こだわり寿司コースをぜひ！",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B008",
+          "name": "4001～5000円",
+          "average": ""
+        },
+        "catch": "",
+        "capacity": 7,
+        "access": "神戸市営地下鉄海岸線みなと元町駅１出口より徒歩約2分",
+        "mobile_access": "みなと元町駅より徒歩約2分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001286910/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/11/73/P038911173/P038911173_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/11/73/P038911173/P038911173_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/11/73/P038911173/P038911173_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/11/73/P038911173/P038911173_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/11/73/P038911173/P038911173_100.jpg"
+          }
+        },
+        "open": "水: 18:00～22:30 （料理L.O. 20:30）",
+        "close": "月、火、木、金、土、日、祝日、祝前日",
+        "party_capacity": "",
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "",
+        "wedding": "",
+        "course": "なし",
+        "free_drink": "なし",
+        "free_food": "なし",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用不可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切不可",
+        "parking": "なし",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れ不可",
+        "wifi": "未確認",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001286910/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001286910/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J003872448",
+        "name": "すし処よろこんで",
+        "logo_image": "https://imgfp.hotp.jp/SYS/cmn/images/common/diary/custom/m30_img_noimage.gif",
+        "name_kana": "すしどころよろこんで",
+        "address": "兵庫県神戸市中央区脇浜町３丁目5-19",
+        "station_name": "春日野道",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y370",
+          "name": "神戸"
+        },
+        "small_area": {
+          "code": "XF03",
+          "name": "新神戸"
+        },
+        "lat": 34.7000446743,
+        "lng": 135.2087150425,
+        "genre": {
+          "name": "和食",
+          "catch": "大きなネタが特徴のお寿司屋",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": ""
+        },
+        "catch": "",
+        "capacity": 26,
+        "access": "春日野道駅から徒歩５分",
+        "mobile_access": "春日野道駅から徒歩5分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003872448/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/85/57/P044928557/P044928557_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/85/57/P044928557/P044928557_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/85/57/P044928557/P044928557_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/85/57/P044928557/P044928557_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/85/57/P044928557/P044928557_100.jpg"
+          }
+        },
+        "open": "火～日、祝日、祝前日: 17:00～翌0:00",
+        "close": "月",
+        "party_capacity": "",
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "",
+        "wedding": "",
+        "course": "なし",
+        "free_drink": "なし",
+        "free_food": "なし",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "禁煙席なし",
+        "charter": "貸切不可",
+        "parking": "なし",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "なし",
+        "midnight": "営業している",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れ不可",
+        "wifi": "未確認",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003872448/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003872448/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J001269341",
+        "name": "えびす大黒 新開地北店",
+        "logo_image": "https://imgfp.hotp.jp/SYS/cmn/images/common/diary/custom/m30_img_noimage.gif",
+        "name_kana": "えびすだいこく　しんかいちきたてん",
+        "address": "兵庫県神戸市兵庫区新開地２-1-7",
+        "station_name": "新開地",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y373",
+          "name": "須磨・垂水・西区・兵庫・長田"
+        },
+        "small_area": {
+          "code": "XF0O",
+          "name": "新開地"
+        },
+        "lat": 34.6772841648,
+        "lng": 135.170609992,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "活魚問屋「魚銀」の直営店!!鮮魚が自慢!",
+          "code": "G001"
+        },
+        "budget": {
+          "code": "B002",
+          "name": "2001～3000円",
+          "average": "ランチ：550円～、ディナー：2000円～"
+        },
+        "catch": "えびす大黒の「お寿司」 テイクアウトもOK！",
+        "capacity": 75,
+        "access": "新開地駅３号出口よりすぐ",
+        "mobile_access": "新開地駅3号出口よりすぐ",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001269341/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/64/53/P037846453/P037846453_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/64/53/P037846453/P037846453_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/64/53/P037846453/P037846453_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/64/53/P037846453/P037846453_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/64/53/P037846453/P037846453_100.jpg"
+          }
+        },
+        "open": "月～日、祝日、祝前日: 10:00～22:30 （料理L.O. 22:00 ドリンクL.O. 22:00）",
+        "close": "なし",
+        "party_capacity": 40,
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "",
+        "wedding": "",
+        "free_drink": "あり",
+        "free_food": "なし",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "禁煙席なし",
+        "charter": "貸切不可",
+        "parking": "なし",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れ不可",
+        "wifi": "未確認",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001269341/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001269341/scoupon/?vos=nhppalsa000016"
+        }
+      },
+      {
+        "id": "J004068362",
+        "name": "鮨 酒 肴 杉玉 新開地タウン",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/68/00/P036286800/P036286800_69.jpg",
+        "name_kana": "すぎたま　しんかいちたうん",
+        "address": "兵庫県神戸市兵庫区新開地２丁目3番　B-1号　新開地タウン",
+        "station_name": "新開地",
+        "ktai_coupon": 1,
+        "large_service_area": {
+          "code": "SS20",
+          "name": "関西"
+        },
+        "service_area": {
+          "code": "SA24",
+          "name": "兵庫"
+        },
+        "large_area": {
+          "code": "Z024",
+          "name": "兵庫"
+        },
+        "middle_area": {
+          "code": "Y373",
+          "name": "須磨・垂水・西区・兵庫・長田"
+        },
+        "small_area": {
+          "code": "XF0O",
+          "name": "新開地"
+        },
+        "lat": 34.6767014491,
+        "lng": 135.1704280831,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "安くて旨い！こだわり大衆寿司居酒屋◇",
+          "code": "G001"
+        },
+        "sub_genre": {
+          "name": "和食",
+          "code": "G004"
+        },
+        "budget": {
+          "code": "B003",
+          "name": "3001～4000円",
+          "average": "ディナー3500円前後"
+        },
+        "catch": "こだわりのお寿司 酒に合う肴もどうぞ",
+        "capacity": 84,
+        "access": "阪急・阪神・山陽・神鉄ご利用のお客様「新開地駅（東改札・西改札）」から直結",
+        "mobile_access": "各路線｢新開地｣駅から直結",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ004068362/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/69/90/P047536990/P047536990_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/69/90/P047536990/P047536990_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/69/90/P047536990/P047536990_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/69/90/P047536990/P047536990_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/69/90/P047536990/P047536990_100.jpg"
+          }
+        },
+        "open": "月～日、祝日、祝前日: 11:30～21:30 （料理L.O. 21:00 ドリンクL.O. 21:00）",
+        "close": "※毎月第3火曜日は施設定休日（12月を除く）",
+        "party_capacity": 84,
+        "other_memo": "",
+        "shop_detail_memo": "",
+        "budget_memo": "",
+        "wedding": "",
+        "course": "あり",
+        "free_drink": "あり",
+        "free_food": "なし",
+        "private_room": "なし",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "全面禁煙",
+        "charter": "貸切不可",
+        "parking": "なし",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業していない",
+        "english": "あり",
+        "pet": "不可",
+        "child": "お子様連れOK",
+        "wifi": "あり",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ004068362/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ004068362/scoupon/?vos=nhppalsa000016"
+        }
+      }
+    ]
+  }
+}
