@@ -10,4 +10,6 @@
 ### 使用技術
 - 言語:Python3.11+
 - ライブラリ:Pandas, BeautifulSoup4, Janome, requests
-
+### 
+<img width="337" height="66" alt="スクリーンショット 2026-02-19 174209" src="https://github.com/user-attachments/assets/49094b88-bd20-41c8-b743-06020dd59627" />
+<img width="334" height="59" alt="スクリーンショット 2026-02-19 174222" src="https://github.com/user-attachments/assets/92d7161a-da88-41ac-9262-e54e1cd601d5" />
