@@ -14,16 +14,15 @@
 ###
 コード1の出力例
 
-
 <img width="81" height="231" alt="スクリーンショット 2026-02-20 102859" src="https://github.com/user-attachments/assets/077ca5f5-24fe-49a5-ad68-11c6f682a5eb" />
+
 
 コード2の出力例
 
-
 <img width="350" height="67" alt="スクリーンショット 2026-02-20 102836" src="https://github.com/user-attachments/assets/15db54b0-2fe1-4c2d-a38c-d958df71a2af" />
 
-コード3の出力例
 
+コード3の出力例
 
 <img width="311" height="67" alt="スクリーンショット 2026-02-20 102920" src="https://github.com/user-attachments/assets/61fa43f4-d56d-44c4-8133-9cc324ee9a29" />
 
